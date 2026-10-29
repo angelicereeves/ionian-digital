@@ -1,0 +1,626 @@
+{
+  "Navigation": {
+    "home": "Kreu",
+    "services": "Shërbimet",
+    "portfolio": "Projektet Tona",
+    "pricing": "Çmimet",
+    "about": "Rreth Nesh",
+    "contact": "Kontakt",
+    "getStarted": "Nisni Projektin"
+  },
+  "Hero": {
+    "badge": "Zhvillim Webi & Dizajn Kreativ",
+    "title": "Faqe Webi të Bukura. Marka të Paharrueshme.",
+    "description": "Krijojmë faqe webi moderne dhe shumëgjuhëshe, si dhe meny restorantesh të dizajnuara profesionalisht, që ndihmojnë bizneset të dallohen, të lidhen me klientët dhe të rriten.",
+    "primaryButton": "Filloni Projektin Tuaj",
+    "secondaryButton": "Shikoni Punët Tona",
+    "trust": {
+      "technology": "Teknologji Moderne",
+      "multilingual": "Faqe Webi Shumëgjuhëshe",
+      "menuDesign": "Dizajn Menysh dhe Katalogësh"
+    },
+    "mockup": {
+      "eyebrow": "PËRVOJA DIXHITALE",
+      "titleLine1": "Dizajn i Bukur.",
+      "titleLine2": "Rezultate të Fuqishme.",
+      "description": "Përvoja dixhitale të krijuara me kujdes për të zhvilluar biznesin tuaj.",
+      "button": "Eksploroni"
+    },
+    "floatingBadge": {
+      "title": "Shumëgjuhësh",
+      "description": "Për audienca ndërkombëtare"
+    },
+    "menuBadge": {
+      "title": "Dizajn Menysh",
+      "description": "Printim & Dixhital"
+    }
+  },
+  "Services": {
+    "eyebrow": "Çfarë Ofrojmë",
+    "title": "Gjithçka që i Duhet Biznesit Tuaj për të Pasur Sukses Online.",
+    "description": "Nga faqet moderne të internetit te përvojat shumëgjuhëshe, krijojmë zgjidhje digjitale që ndihmojnë biznesin tuaj të rritet.",
+    "webDesign": "Dizajn Faqesh Web",
+    "webDesignDescription": "Faqe web moderne dhe të përshtatshme për çdo pajisje, të krijuara për të prezantuar biznesin tuaj dhe për të tërhequr klientë.",
+    "multilingual": "Faqe Web Shumëgjuhëshe",
+    "multilingualDescription": "Arrini më shumë klientë me faqe interneti profesionale të disponueshme në disa gjuhë.",
+    "performance": "Shpejtësi dhe Performancë",
+    "performanceDescription": "Faqe web të shpejta, të optimizuara për celularë dhe të ndërtuara sipas praktikave më të mira të motorëve të kërkimit.",
+    "maintenance": "Mirëmbajtje e Faqes Web",
+    "maintenanceDescription": "Mbajeni faqen tuaj të përditësuar, të sigurt dhe funksionale me mbështetje të vazhdueshme.",
+    "learnMore": "Mëso Më Shumë",
+    "menuDesign": "Dizajn Profesional i Menyve",
+    "menuDesignDescription": "Meny restorantesh, lista verërash dhe meny koktejesh të dizajnuara me kujdes. Të disponueshme në disa gjuhë dhe të gatshme për printim ose përdorim dixhital.",
+    "viewAllServices": "Shikoni të Gjitha Shërbimet"
+  },
+  "Pricing": {
+    "eyebrow": "Çmime të Qarta dhe Transparente",
+    "title": "Faqja e Duhur Web për Çdo Biznes.",
+    "description": "Faqe web profesionale të krijuara sipas qëllimeve dhe buxhetit tuaj. Zgjidhni paketën që i përshtatet biznesit tuaj.",
+    "startingAt": "Duke filluar nga",
+    "oneTime": "/ projekt",
+    "mostPopular": "Më e Zgjedhura",
+    "choosePlan": "Filloni Tani",
+    "starter": {
+      "name": "Starter",
+      "description": "Një prezencë profesionale dhe elegante në internet për bizneset e vogla."
+    },
+    "business": {
+      "name": "Business",
+      "description": "Më shumë faqe, më shumë gjuhë dhe më shumë mundësi për bizneset në rritje."
+    },
+    "premium": {
+      "name": "Premium",
+      "description": "Një përvojë digjitale e personalizuar sipas nevojave të biznesit tuaj."
+    },
+    "starterPages": "Deri në 3 faqe",
+    "businessPages": "Deri në 7 faqe",
+    "premiumPages": "Numër faqesh sipas projektit",
+    "starterLanguages": "2 gjuhë të përfshira",
+    "businessLanguages": "3 gjuhë të përfshira",
+    "premiumLanguages": "4 gjuhë të përfshira",
+    "starterRevisions": "2 raunde ndryshimesh",
+    "businessRevisions": "3 raunde ndryshimesh",
+    "premiumRevisions": "Ndryshime sipas marrëveshjes",
+    "responsive": "Dizajn i përshtatshëm për celularë",
+    "contactForm": "Formular kontakti",
+    "seo": "Optimizim bazë SEO",
+    "googleMaps": "Integrim me Google Maps",
+    "basicAnimations": "Animacione bazë",
+    "advancedAnimations": "Animacione të avancuara",
+    "customAnimations": "Animacione të personalizuara",
+    "basicIntegrations": "Integrime të përzgjedhura",
+    "advancedIntegrations": "Integrime të avancuara",
+    "maintenanceTitle": "Mbajeni Faqen Tuaj Web Gjithmonë në Formë.",
+    "maintenanceDescription": "Mirëmbajtje opsionale, përditësime dhe mbështetje teknike për funksionimin optimal të faqes suaj.",
+    "perMonth": "/ muaj",
+    "optional": "Opsionale",
+    "learnMore": "Mësoni më shumë",
+    "disclaimer": "Çmimet janë orientuese dhe fillojnë nga vlerat e shënuara. Çmimi përfundimtar varet nga kërkesat e projektit. Hostimi, regjistrimi i domenit dhe përkthimet profesionale tarifohen veçmas, përveç rasteve kur përfshihen në ofertë."
+  },
+  "WhyChooseUs": {
+    "eyebrow": "Pse Ionian Digital",
+    "title": "Më Shumë se Një Faqe Web. Një Partner për Rritjen Tuaj.",
+    "description": "Ne kombinojmë zhvillimin modern të faqeve web me njohjen e tregut shqiptar për të krijuar faqe të bukura, praktike dhe të përshtatura për qëllimet tuaja.",
+    "cta": "Le të Punojmë Së Bashku",
+    "localTitle": "Njohje e Tregut Lokal",
+    "localDescription": "Me bazë në Shqipëri, kuptojmë nevojat e bizneseve vendase dhe rëndësinë e komunikimit me vizitorët ndërkombëtarë.",
+    "languagesTitle": "Faqe Web Shumëgjuhëshe",
+    "languagesDescription": "Arrini klientë shqiptarë dhe ndërkombëtarë me faqe web të krijuara për të funksionuar në disa gjuhë.",
+    "technologyTitle": "Teknologji Moderne",
+    "technologyDescription": "Përdorim teknologji moderne për të krijuar faqe të shpejta, funksionale dhe të përshtatshme për çdo pajisje.",
+    "pricingTitle": "Çmime Transparente",
+    "pricingDescription": "Paketa të qarta, oferta të kuptueshme dhe pa surpriza për shërbimet e përfshira.",
+    "personalTitle": "Shërbim i Personalizuar",
+    "personalDescription": "Komunikoni drejtpërdrejt me zhvilluesen që ndërton faqen tuaj, nga biseda e parë deri në publikim."
+  },
+  "OurProcess": {
+    "eyebrow": "Si Punojmë",
+    "title": "Nga Biseda e Parë deri te Publikimi.",
+    "description": "Një proces i thjeshtë dhe bashkëpunues për të realizuar idenë tuaj pa ndërlikime të panevojshme.",
+    "discoveryTitle": "Konsultimi",
+    "discoveryDescription": "Diskutojmë biznesin tuaj, qëllimet, klientët dhe funksionalitetet që ju nevojiten.",
+    "designTitle": "Dizajni",
+    "designDescription": "Krijojmë një drejtim vizual që përfaqëson markën tuaj dhe lë një përshtypje të shkëlqyer.",
+    "developmentTitle": "Zhvillimi",
+    "developmentDescription": "Ndërtojmë faqen tuaj responsive dhe shumëgjuhëshe dhe e testojmë në pajisje të ndryshme.",
+    "launchTitle": "Publikimi",
+    "launchDescription": "Pas miratimit tuaj, publikojmë faqen dhe ju ndihmojmë të kuptoni si ta përdorni.",
+    "cta": "Nisni Projektin Tuaj"
+  },
+  "CTA": {
+    "eyebrow": "Le të Krijojmë Diçka të Jashtëzakonshme",
+    "title": "Gati ta Prezantoni Biznesin Tuaj Online?",
+    "description": "Biznesi juaj meriton një faqe web që duket fantastike, funksionon në mënyrë të shkëlqyer dhe ju ndihmon të lidheni me më shumë klientë. Le të krijojmë diçka për të cilën do të jeni krenarë.",
+    "primaryButton": "Nisni Projektin Tuaj",
+    "secondaryButton": "Shikoni Çmimet",
+    "trustOne": "Çmime Transparente",
+    "trustTwo": "Faqe Web Shumëgjuhëshe",
+    "trustThree": "Shërbim i Personalizuar"
+  },
+  "ServicesPage": {
+    "heroEyebrow": "Ekspertiza Jonë",
+    "heroTitle": "Zgjidhje Digjitale të Krijuara për Biznesin Tuaj.",
+    "heroDescription": "Nga faqet moderne web te përvojat shumëgjuhëshe, krijojmë zgjidhje digjitale që ndihmojnë bizneset të lidhen me klientët dhe të rriten online.",
+    "heroButton": "Nisni Projektin Tuaj",
+    "servicesEyebrow": "Shërbimet Tona",
+    "servicesTitle": "Gjithçka që Ju Duhet për t'u Dalluar Online.",
+    "servicesDescription": "Shërbime profesionale të dizajnit dhe zhvillimit web, të përshtatura për biznesin dhe qëllimet tuaja.",
+    "webDesignTitle": "Dizajn dhe Zhvillim Faqesh Web",
+    "webDesignDescription": "Faqe web të bukura, të shpejta dhe responsive që përfaqësojnë biznesin tuaj dhe tërheqin klientë.",
+    "webDesignFeature1": "Dizajn vizual i personalizuar",
+    "webDesignFeature2": "Pamje e përshtatshme për celularë",
+    "webDesignFeature3": "Formularë kontakti dhe kërkesash",
+    "multilingualTitle": "Faqe Web Shumëgjuhëshe",
+    "multilingualDescription": "Komunikoni me klientët vendas dhe ndërkombëtarë përmes një faqeje web që funksionon në disa gjuhë.",
+    "multilingualFeature1": "Opsione në shqip, anglisht, italisht dhe greqisht",
+    "multilingualFeature2": "Ndërrim i lehtë i gjuhës",
+    "multilingualFeature3": "Përmbajtje dhe navigim shumëgjuhësh",
+    "restaurantTitle": "Faqe Web për Restorante dhe Hoteleri",
+    "restaurantDescription": "Prezantoni restorantin, barin ose biznesin tuaj të hotelerisë me një faqe tërheqëse që i ndihmon klientët të zbulojnë shërbimet tuaja.",
+    "restaurantFeature1": "Menu digjitale dhe galeri fotografish",
+    "restaurantFeature2": "Mundësi për kërkesa rezervimi",
+    "restaurantFeature3": "Harta dhe integrime kontakti",
+    "tourismTitle": "Faqe Web për Turizëm dhe Akomodim",
+    "tourismDescription": "Ndihmoni udhëtarët të zbulojnë turet, aktivitetet dhe akomodimet tuaja përpara mbërritjes.",
+    "tourismFeature1": "Prezantim turesh dhe shërbimesh",
+    "tourismFeature2": "Mundësi për kërkesa rezervimi",
+    "tourismFeature3": "Informacion shumëgjuhësh për vizitorët",
+    "redesignTitle": "Ridizajnim Faqesh Web",
+    "redesignDescription": "Rifreskoni faqen tuaj ekzistuese me një pamje moderne, navigim më të mirë dhe përvojë më të këndshme për vizitorët.",
+    "redesignFeature1": "Pamje vizuale moderne",
+    "redesignFeature2": "Përmirësime për celularë",
+    "redesignFeature3": "Organizim më i mirë i përmbajtjes",
+    "maintenanceTitle": "Mirëmbajtje dhe Mbështetje",
+    "maintenanceDescription": "Mbajeni faqen tuaj të përditësuar dhe funksionale me mbështetje të vazhdueshme opsionale.",
+    "maintenanceFeature1": "Përditësime të përmbajtjes",
+    "maintenanceFeature2": "Mirëmbajtje teknike",
+    "maintenanceFeature3": "Asistencë e vazhdueshme",
+    "industriesEyebrow": "Me Kë Punojmë",
+    "industriesTitle": "Krijuar për Bizneset që e Bëjnë Shqipërinë të Veçantë.",
+    "industriesDescription": "Nga restorantet buzë detit në Sarandë te akomodimet dhe bizneset lokale, e kuptojmë rëndësinë e një prezence profesionale online.",
+    "industriesButton": "Flisni me Ne",
+    "industry": {
+      "restaurants": "Restorante dhe Bare",
+      "hospitality": "Hotele dhe Akomodim",
+      "tourism": "Ture dhe Aktivitete",
+      "cafes": "Kafene dhe Furra Buke",
+      "local": "Biznese Lokale"
+    },
+    "includedEyebrow": "Elementet Themelore",
+    "includedTitle": "Një Bazë e Fortë për Çdo Faqe Web.",
+    "includedDescription": "Kujdesemi për detajet që e bëjnë faqen tuaj të dobishme, të aksesueshme dhe të këndshme për klientët.",
+    "included": {
+      "responsive": {
+        "title": "Dizajn Responsive",
+        "description": "Pamje që përshtatet me celularë, tableta dhe kompjuterë."
+      },
+      "performance": {
+        "title": "Performancë",
+        "description": "Teknologji moderne që i jep përparësi shpejtësisë dhe përdorimit të lehtë."
+      },
+      "seo": {
+        "title": "Bazat e SEO",
+        "description": "Optimizim fillestar për të ndihmuar motorët e kërkimit të kuptojnë faqen tuaj."
+      },
+      "multilingual": {
+        "title": "Opsione Shumëgjuhëshe",
+        "description": "Gjuhë të përshtatura sipas paketës dhe klientëve tuaj."
+      },
+      "reliable": {
+        "title": "Zhvillim i Besueshëm",
+        "description": "Zhvillim dhe testim i kujdesshëm përpara publikimit."
+      },
+      "support": {
+        "title": "Ndihmë në Publikim",
+        "description": "Komunikim dhe udhëzime të qarta gjatë publikimit."
+      }
+    },
+    "includedNote": "Funksionalitetet, numri i gjuhëve dhe shërbimet e vazhdueshme varen nga paketa dhe oferta e zgjedhur.",
+    "ctaTitle": "Le të Krijojmë Faqen Web që Biznesi Juaj Meriton.",
+    "ctaDescription": "Na tregoni për biznesin tuaj dhe idenë që keni. Ne do t'ju ndihmojmë të zgjidhni zgjidhjen e duhur.",
+    "ctaPrimary": "Nisni Projektin Tuaj",
+    "ctaSecondary": "Shikoni Çmimet",
+    "menuDesign": {
+      "eyebrow": "Shërbime Kreative",
+      "title": "Dizajn Profesional i Menyve",
+      "description": "Meny të dizajnuara bukur që pasqyrojnë identitetin e biznesit tuaj dhe lënë përshtypje. Nga menytë e restoranteve deri te katalogët e verërave, krijojmë dizajne elegante për printim dhe përdorim digjital.",
+      "types": {
+        "food": {
+          "title": "Meny për Restorante dhe Kafene",
+          "description": "Meny ushqimore të personalizuara me organizim të qartë, çmime të lexueshme dhe stil vizual që përputhet me identitetin e biznesit tuaj."
+        },
+        "drinks": {
+          "title": "Meny Verërash dhe Koktejesh",
+          "description": "Lista elegante verërash, meny koktejesh dhe katalogë të detajuar pijesh që prezantojnë ofertat tuaja."
+        },
+        "multilingual": {
+          "title": "Dizajn Menysh Shumëgjuhëshe",
+          "description": "Meny të formatuara profesionalisht në disa gjuhë, për të mirëpritur klientë nga e gjithë bota."
+        }
+      },
+      "formatsLabel": "Printim dhe Format Digjital",
+      "formatsDescription": "Merrni skedarë PDF me cilësi të lartë, gati për printim, si dhe versione digjitale për shpërndarje online ose përmes kodeve QR.",
+      "portfolioButton": "Shikoni Punët Tona",
+      "contactButton": "Kërkoni një Ofertë"
+    }
+  },
+  "PricingPage": {
+    "heroEyebrow": "Çmime të Qarta dhe Transparente",
+    "heroTitle": "Një Faqe Web Profesionale. Një Investim për Biznesin Tuaj.",
+    "heroDescription": "Paketa të qarta, dizajn cilësor dhe pa ndërlikime të panevojshme. Gjeni zgjidhjen e duhur për biznesin tuaj.",
+    "comparisonEyebrow": "Krahasoni Paketat",
+    "comparisonTitle": "Gjeni Paketën e Duhur.",
+    "comparisonDescription": "Një përmbledhje më e detajuar e funksionaliteteve dhe shërbimeve të çdo pakete.",
+    "comparisonFeature": "Funksionalitetet",
+    "comparisonNote": "Kërkesat e personalizuara dhe funksionalitetet shtesë mund të diskutohen gjatë konsultimit.",
+    "plans": {
+      "starter": "Starter",
+      "business": "Business",
+      "premium": "Premium"
+    },
+    "comparison": {
+      "pages": "Numri i Faqeve",
+      "languages": "Gjuhët e Përfshira",
+      "responsive": "Përshtatje për Celularë",
+      "contactForm": "Formular Kontakti",
+      "seo": "SEO Bazë",
+      "maps": "Google Maps",
+      "animations": "Animacione",
+      "integrations": "Integrime të Personalizuara",
+      "revisions": "Raunde Ndryshimesh"
+    },
+    "values": {
+      "starterPages": "Deri në 3",
+      "businessPages": "Deri në 7",
+      "premiumPages": "Sipas projektit",
+      "starterLanguages": "2",
+      "businessLanguages": "3",
+      "premiumLanguages": "4",
+      "basic": "Bazë",
+      "advanced": "Të avancuara",
+      "custom": "Të personalizuara",
+      "selected": "Të përzgjedhura",
+      "twoRounds": "2",
+      "threeRounds": "3"
+    },
+    "included": "Përfshirë",
+    "notIncluded": "—",
+    "detailsEyebrow": "Informacione të Dobishme",
+    "detailsTitle": "Më Shumë se Një Çmim.",
+    "detailsDescription": "Besojmë se krijimi i një faqeje web duhet të jetë një proces i qartë që nga biseda e parë.",
+    "details": {
+      "languages": {
+        "title": "Arrini Më Shumë Klientë",
+        "description": "Faqet shumëgjuhëshe ju ndihmojnë të komunikoni me klientët vendas dhe vizitorët ndërkombëtarë."
+      },
+      "transparent": {
+        "title": "Oferta të Qarta",
+        "description": "Përpara fillimit të punës, do të merrni një ofertë që përcakton shërbimet, rezultatet dhe kostot e projektit."
+      },
+      "support": {
+        "title": "Bashkëpunim i Drejtpërdrejtë",
+        "description": "Do të keni komunikim të drejtpërdrejtë gjatë procesit të dizajnit dhe zhvillimit."
+      }
+    },
+    "faqEyebrow": "Pyetje të Shpeshta",
+    "faqTitle": "Keni Pyetje? Ne Kemi Përgjigje.",
+    "faqDescription": "Gjithçka që duhet të dini përpara se të nisni projektin tuaj.",
+    "faq": {
+      "payment": {
+        "question": "A duhet të paguaj të gjithë shumën paraprakisht?",
+        "answer": "Kushtet e pagesës përcaktohen në ofertën tuaj. Për shumicën e projekteve mund të biem dakord për një parapagim dhe pagesën e mbetur përpara publikimit."
+      },
+      "timeline": {
+        "question": "Sa kohë duhet për të krijuar një faqe web?",
+        "answer": "Koha varet nga numri i faqeve, gjuhëve dhe funksionaliteteve. Do t'ju japim një afat të përafërt pasi të shqyrtojmë kërkesat tuaja."
+      },
+      "domain": {
+        "question": "A përfshihen domeni dhe hostimi?",
+        "answer": "Regjistrimi i domenit dhe hostimi tarifohen veçmas, përveç rasteve kur përfshihen shprehimisht në ofertë. Do t'ju ndihmojmë të kuptoni opsionet."
+      },
+      "languages": {
+        "question": "A mund të ketë faqja ime më shumë gjuhë?",
+        "answer": "Po. Çdo paketë përfshin një numër të caktuar gjuhësh dhe gjuhët shtesë mund të tarifohen sipas sasisë së përmbajtjes."
+      },
+      "updates": {
+        "question": "A mund ta përditësoni faqen pas publikimit?",
+        "answer": "Po. Planet opsionale të mirëmbajtjes fillojnë nga 29 € në muaj. Shërbimet e përfshira përcaktohen në marrëveshjen e mirëmbajtjes."
+      },
+      "changes": {
+        "question": "Po nëse dua ndryshime gjatë zhvillimit?",
+        "answer": "Çdo paketë përfshin raunde ndryshimesh. Ndryshimet shtesë ose kërkesat jashtë marrëveshjes mund të tarifohen veçmas."
+      },
+      "ownership": {
+        "question": "A do të jem pronar i faqes sime web?",
+        "answer": "Pronësia dhe mënyra e aksesit do të përcaktohen qartë në marrëveshjen e projektit, duke përfshirë shërbimet dhe licencat e palëve të treta."
+      },
+      "custom": {
+        "question": "Po nëse projekti im nuk përshtatet me asnjë paketë?",
+        "answer": "Nuk ka problem. Na tregoni çfarë ju nevojitet dhe do të përgatisim një ofertë të personalizuar."
+      }
+    },
+    "ctaTitle": "Nuk Jeni të Sigurt Cila Paketë Ju Përshtatet?",
+    "ctaDescription": "Na tregoni pak për biznesin tuaj dhe çfarë dëshironi të krijoni. Ne do t'ju ndihmojmë të gjeni zgjidhjen e duhur.",
+    "ctaButton": "Le të Flasim për Projektin Tuaj",
+    "menuPricing": {
+      "eyebrow": "Çmimet e Dizajnit Kreativ",
+      "title": "Dizajn Menysh që Lë Përshtypje.",
+      "description": "Nga përditësimi i një menyje ekzistuese te një meny shumëgjuhëshe e personalizuar, zgjidhni paketën që i përshtatet biznesit tuaj.",
+      "popular": "Më e Kërkuara",
+      "startingAt": "Duke filluar nga",
+      "customQuoteLabel": "Sipas nevojave të projektit",
+      "customQuote": "Ofertë e Personalizuar",
+      "perProject": "/ projekt",
+      "includes": "Çfarë përfshihet",
+      "button": "Kërkoni një Ofertë",
+      "disclaimer": "Çmimet janë fillestare. Çmimi përfundimtar varet nga numri i faqeve, përmbajtja, gjuhët dhe kompleksiteti i dizajnit. Printimi dhe përkthimi profesional faturohen veçmas.",
+      "ctaTitle": "Ju Duhet një Katalog Verërash apo Diçka e Veçantë?",
+      "ctaDescription": "Na tregoni për menynë, listën e pijeve ose katalogun tuaj. Mund të përgatisim një ofertë të personalizuar për projekte më të mëdha dhe më të detajuara.",
+      "ctaButton": "Diskutoni Projektin Tuaj",
+      "packages": {
+        "refresh": {
+          "name": "Përditësim Menyje",
+          "description": "Jepini menysë suaj ekzistuese një pamje më të rregullt dhe moderne, pa e krijuar nga e para.",
+          "features": [
+            "Përditësim i menysë ekzistuese",
+            "Deri në 2 faqe",
+            "Tipografi dhe organizim i qartë",
+            "PDF gati për printim"
+          ]
+        },
+        "custom": {
+          "name": "Dizajn Menyje të Personalizuar",
+          "description": "Një meny origjinale e krijuar sipas identitetit, atmosferës dhe ofertës së biznesit tuaj.",
+          "features": [
+            "Dizajn origjinal sipas markës",
+            "Deri në 4 faqe",
+            "Paraqitje e menysë së ushqimeve ose pijeve",
+            "PDF për printim dhe përdorim digjital"
+          ]
+        },
+        "multilingual": {
+          "name": "Meny Shumëgjuhëshe",
+          "description": "Mirëpritni më shumë klientë me një meny të dizajnuar profesionalisht në dy gjuhë.",
+          "features": [
+            "Deri në 4 faqe",
+            "2 gjuhë të përfshira",
+            "Paraqitje e njëtrajtshme shumëgjuhëshe",
+            "PDF për printim dhe përdorim digjital"
+          ]
+        },
+        "catalog": {
+          "name": "Katalogë Verërash dhe Meny të Mëdha",
+          "description": "Zgjidhje e personalizuar për lista të gjata verërash, katalogë me shumë faqe dhe meny komplekse.",
+          "features": [
+            "Numër faqesh sipas nevojës",
+            "Paraqitje e personalizuar e katalogut",
+            "Mundësi për disa gjuhë",
+            "Ofertë sipas përmasave të projektit"
+          ]
+        }
+      }
+    }
+  },
+  "AboutPage": {
+    "heroEyebrow": "Rreth Ionian Digital",
+    "heroTitle": "Dizajn i Menduar Mirë. Teknologji Moderne. Qasje Personale.",
+    "heroDescription": "Ionian Digital është një studio e pavarur për zhvillim faqesh interneti dhe dizajn kreativ me bazë në Sarandë, Shqipëri. Ne ndërthurim teknologjinë moderne me mbi 10 vjet përvojë praktike në hoteleri dhe restorante për t’i ndihmuar bizneset të lënë përshtypje të paharrueshme.",
+    "storyEyebrow": "Historia Jonë",
+    "storyTitle": "Krijuar me Qëllim. Frymëzuar nga Bregdeti Jon.",
+    "storyParagraph1": "Ionian Digital u themelua me një ide të thjeshtë: faqet web moderne dhe profesionale duhet të jenë të arritshme për biznese të çdo madhësie.",
+    "storyParagraph2": "Me bazë në Sarandë, frymëzohemi nga krijimtaria, mikpritja dhe shpirti sipërmarrës i bizneseve përreth nesh.",
+    "storyParagraph3": "Qëllimi ynë është të kombinojmë zhvillimin modern web me shërbimin personal, duke ndihmuar bizneset të prezantohen profesionalisht para klientëve vendas dhe ndërkombëtarë.",
+    "visualDescription": "Faqe web moderne që ndihmojnë bizneset lokale të lidhen me botën.",
+    "visualMultilingual": "Përvoja Shumëgjuhëshe",
+    "visualModern": "Zhvillim Modern Web",
+    "founderEyebrow": "Njihuni me Themeluesen",
+    "founderTitle": "Personi Pas Ionian Digital.",
+    "founderRole": "Themeluese dhe Zhvilluese Kryesore",
+    "founderLocation": "Sarandë, Shqipëri",
+    "founderHeading": "Përshëndetje, jam Angelica.",
+    "founderParagraph1": "Përshëndetje, jam Angelica. Para se të bëhesha zhvilluese web-i, punova për mbi 10 vjet në sektorin e mikpritjes, nga shërbimi ndaj klientëve dhe trajnimi i ekipeve deri te menaxhimi i restoranteve. E di nga përvoja se çfarë duhet për ta mbajtur një biznes në funksion dhe për t’i bërë klientët të kthehen.",
+    "founderParagraph2": "Kjo përvojë ndikon në gjithçka që krijoj. E di se përshtypja e parë e klientit shpesh formohet para se të hyjë në lokal. Një faqe interneti e qartë, një menu tërheqëse dhe një mënyrë e lehtë komunikimi mund të bëjnë ndryshimin.",
+    "founderParagraph3": "Sot e ndërthur këtë njohuri praktike me aftësitë e mia në React, Next.js, TypeScript dhe Tailwind CSS. Qoftë kur krijoj një faqe interneti, një menu shumëgjuhëshe apo një katalog verërash, përqendrohem te zgjidhjet që funksionojnë si për biznesin, ashtu edhe për klientët e tij.",
+    "founderButton": "Le të Punojmë Së Bashku",
+    "valuesEyebrow": "Çfarë Besojmë",
+    "valuesTitle": "Vlerat që Udhëheqin Punën Tonë.",
+    "valuesDescription": "Disa parime të thjeshta udhëheqin çdo projekt.",
+    "values": {
+      "personal": {
+        "title": "Vëmendje Personale",
+        "description": "Çdo biznes është i ndryshëm. Marrim kohë për të kuptuar qëllimet dhe nevojat tuaja."
+      },
+      "accessible": {
+        "title": "Dizajn i Aksesueshëm",
+        "description": "Faqet profesionale duhet të jenë të lehta për t'u përdorur, të përshtatshme për celularë dhe shumëgjuhëshe."
+      },
+      "thoughtful": {
+        "title": "Zhvillim i Kujdesshëm",
+        "description": "Fokusohemi te dizajni i pastër, funksionaliteti praktik dhe teknologjia që i shërben biznesit."
+      },
+      "results": {
+        "title": "Fokus te Biznesi",
+        "description": "Qëllimi ynë është të krijojmë faqe që ndihmojnë klientët të kuptojnë shërbimet tuaja dhe t'ju kontaktojnë."
+      }
+    },
+    "missionEyebrow": "Misioni Ynë",
+    "missionTitle": "Ndihmojmë Bizneset Lokale të Lënë një Përshtypje Digjitale të Qëndrueshme.",
+    "missionDescription": "Besojmë se çdo biznes meriton një prezencë online që pasqyron cilësinë e shërbimeve të tij. Misioni ynë është ta bëjmë zhvillimin profesional dhe shumëgjuhësh web të arritshëm dhe praktik.",
+    "ctaTitle": "Le të Krijojmë Diçka të Shkëlqyer Së Bashku.",
+    "ctaDescription": "Pavarësisht nëse po hapni një biznes të ri apo dëshironi të përmirësoni faqen ekzistuese, do të donim të dëgjonim idenë tuaj.",
+    "ctaPrimary": "Nisni Projektin Tuaj",
+    "ctaSecondary": "Shikoni Shërbimet Tona",
+    "founderQuote": "Nuk dua vetëm që biznesi juaj të duket bukur. Dua t’ju ndihmoj të tërhiqni më shumë klientë.",
+    "founderExperienceBadge": "Mbi 10 Vite në Mikpritje"
+  },
+  "ContactPage": {
+    "heroEyebrow": "Le të Punojmë Së Bashku",
+    "heroTitle": "Keni një Projekt në Mendje? Le të Flasim.",
+    "heroDescription": "Na tregoni për biznesin tuaj dhe çfarë dëshironi të krijoni. Do të donim t'ju ndihmonim ta realizoni idenë tuaj.",
+    "formTitle": "Na Tregoni për Projektin Tuaj",
+    "formDescription": "Plotësoni formularin më poshtë dhe ne do të shqyrtojmë kërkesën tuaj.",
+    "nameLabel": "Emri Juaj",
+    "namePlaceholder": "Emri dhe mbiemri",
+    "emailLabel": "Adresa e Emailit",
+    "emailPlaceholder": "ju@shembull.com",
+    "businessLabel": "Emri i Biznesit",
+    "businessPlaceholder": "Biznesi ose organizata juaj",
+    "packageLabel": "Paketa që Ju Intereson",
+    "messageLabel": "Detajet e Projektit",
+    "messagePlaceholder": "Na tregoni për biznesin tuaj, projektin që keni në mendje dhe çdo detaj ose kërkesë të veçantë...",
+    "packages": {
+      "starter": "Starter — nga 200 €",
+      "business": "Business — nga 450 €",
+      "premium": "Premium — nga 900 €",
+      "custom": "Projekt i Personalizuar / Nuk Jam i Sigurt",
+      "menuRefresh": "Përditësim Menyje — €50",
+      "menuCustom": "Meny e Personalizuar — €100",
+      "menuMultilingual": "Meny Shumëgjuhëshe — €150",
+      "menuQuote": "Katalog i Madh / Ofertë e Personalizuar"
+    },
+    "submitButton": "Dërgoni Kërkesën",
+    "sending": "Duke dërguar...",
+    "successMessage": "Mesazhi juaj u dërgua me sukses! Faleminderit që kontaktuat Ionian Digital.",
+    "errorMessage": "Ndodhi një problem gjatë dërgimit. Ju lutemi provoni përsëri ose na kontaktoni me email.",
+    "privacyNote": "Informacioni juaj do të përdoret vetëm për t'iu përgjigjur kërkesës suaj.",
+    "emailCardTitle": "Na Kontaktoni me Email",
+    "emailCardDescription": "Preferoni emailin? Mund të na shkruani drejtpërdrejt në:",
+    "locationCardTitle": "Me Bazë në Shqipëri",
+    "location": "Sarandë, Shqipëri",
+    "locationDescription": "Punojmë me biznese në të gjithë Shqipërinë dhe më gjerë.",
+    "languageCardTitle": "Faqe Web dhe Meny Shumëgjuhëshe",
+    "languageCardDescription": "Krijojmë faqe web dhe meny për biznese që u shërbejnë klientëve shqiptarë, anglishtfolës, italianë dhe grekë.",
+    "noteTitle": "Nuk Dini Nga të Filloni?",
+    "noteDescription": "Nuk keni nevojë t'i keni të gjitha të planifikuara. Na tregoni pak për biznesin tuaj dhe do t'ju ndihmojmë të shqyrtoni mundësitë.",
+    "whatsappCardTitle": "Na Shkruani në WhatsApp",
+    "whatsappCardDescription": "Keni një pyetje të shpejtë për një faqe web apo dizajn menyje? Na shkruani drejtpërdrejt në WhatsApp.",
+    "whatsappButton": "Filloni një Bisedë",
+    "whatsappMessage": "Përshëndetje! Jam i interesuar për shërbimet e Ionian Digital për faqe web ose dizajn menysh dhe do të doja të mësoja më shumë.",
+    "eyebrow": "Le të Punojmë Së Bashku",
+    "title": "Keni një Projekt në Mendje? Le të Flasim.",
+    "description": "Na tregoni për biznesin tuaj dhe çfarë dëshironi të krijoni. Do të donim t'ju ndihmonim ta realizoni idenë tuaj.",
+    "packageStarter": "Starter — nga 200 €",
+    "packageBusiness": "Business — nga 450 €",
+    "packagePremium": "Premium — nga 900 €",
+    "packageCustom": "Projekt i Personalizuar / Nuk Jam i Sigurt",
+    "formNote": "Informacioni juaj do të përdoret vetëm për t'iu përgjigjur kërkesës suaj.",
+    "locationCardDescription": "Punojmë me biznese në të gjithë Shqipërinë dhe më gjerë.",
+    "locationValue": "Sarandë, Shqipëri",
+    "sidebarCtaTitle": "Nuk Dini Nga të Filloni?",
+    "sidebarCtaDescription": "Nuk keni nevojë t'i keni të gjitha të planifikuara. Na tregoni pak për biznesin tuaj dhe do t'ju ndihmojmë të shqyrtoni mundësitë.",
+    "serviceLabel": "Për çfarë keni nevojë?",
+    "services": {
+      "website": "Zhvillim Faqesh Web",
+      "menu": "Dizajn Menysh dhe Katalogësh"
+    },
+    "menuDetailsTitle": "Na tregoni për menynë tuaj",
+    "menuDetailsDescription": "Këto të dhëna janë opsionale dhe na ndihmojnë të përgatisim një ofertë të saktë.",
+    "menuKindLabel": "Lloji i menysë",
+    "menuKinds": {
+      "food": "Meny ushqimi",
+      "cocktails": "Kokteje dhe pije",
+      "wine": "Katalog verërash",
+      "other": "Tjetër"
+    },
+    "menuPagesLabel": "Numri i përafërt i faqeve",
+    "existingMenuLabel": "Krijim i ri apo ridizajnim?",
+    "existingMenu": {
+      "new": "Krijim i një menyje të re",
+      "redesign": "Ridizajnim i menysë ekzistuese"
+    },
+    "menuFormatLabel": "Formati i preferuar",
+    "menuFormats": {
+      "print": "Për printim",
+      "digital": "PDF dixhital",
+      "both": "Printim dhe dixhital"
+    },
+    "menuLanguagesLabel": "Gjuhët e nevojshme",
+    "menuLanguagesPlaceholder": "p.sh. Shqip, Anglisht, Italisht"
+  },
+  "PortfolioPage": {
+    "heroEyebrow": "Punët Tona Kreative",
+    "heroTitle": "Projekte që Flasin Vetë.",
+    "heroDescription": "Eksploroni koleksionin tonë të faqeve moderne të webit, menyve profesionale të restoranteve dhe katalogëve të dizajnuar me kujdes. Çdo projekt krijohet për t'i ndihmuar bizneset të dallohen.",
+    "previewLabel": "Pamje e Projektit",
+    "viewWebsite": "Vizitoni Faqen",
+    "filters": {
+      "all": "Të Gjitha Projektet",
+      "websites": "Faqe Webi",
+      "menus": "Dizajn Menysh dhe Katalogësh"
+    },
+    "sections": {
+      "websitesEyebrow": "Përvoja Dixhitale",
+      "websitesTitle": "Faqet e Webit që Kemi Krijuar",
+      "websitesDescription": "Faqe webi moderne dhe të përshtatshme për çdo pajisje, të dizajnuara për t'u dhënë bizneseve një prani më të fortë në internet.",
+      "menusEyebrow": "Dizajn Kreativ",
+      "menusTitle": "Menytë dhe Katalogët që Kemi Dizajnuar",
+      "menusDescription": "Meny restorantesh, lista koktejesh dhe katalogë verërash të dizajnuar me kujdes për të nxjerrë në pah identitetin e biznesit."
+    },
+    "projects": {
+      "vela": {
+        "title": "Vela Marine",
+        "industry": "Restorante dhe Mikpritje",
+        "description": "Një faqe webi moderne dhe e përshtatshme për çdo pajisje, e krijuar për të prezantuar atmosferën mesdhetare, përvojën gastronomike dhe ofertat e Vela Marine.",
+        "imageAlt": "Pamje e faqes së webit të restorantit Vela Marine"
+      },
+      "bistrica": {
+        "title": "Bistrica Paddleboard",
+        "industry": "Turizëm dhe Aktivitete në Natyrë",
+        "description": "Një faqe webi dinamike për një biznes paddleboarding, me pamje tërheqëse, informacion të qartë mbi shërbimet dhe përdorim të lehtë në pajisje celulare.",
+        "imageAlt": "Pamje e faqes së webit Bistrica Paddleboard"
+      },
+      "haxhi": {
+        "title": "Restorant Haxhi",
+        "industry": "Restorante dhe Mikpritje",
+        "description": "Një faqe elegante restoranti me strukturë moderne, tipografi të rafinuar dhe përvojë të njëtrajtshme në çdo pajisje.",
+        "imageAlt": "Pamje e faqes së webit të restorantit Haxhi"
+      },
+      "crave": {
+        "title": "Crave Café",
+        "industry": "Kafene dhe Gastronomi",
+        "description": "Një faqe webi tërheqëse për një kafene, e dizajnuar për të prezantuar menynë, ofertat speciale dhe identitetin e markës.",
+        "imageAlt": "Pamje e faqes së webit Crave Café"
+      }
+    },
+    "featuredProject": "Projekt i Veçantë",
+    "pageCount": "{count} faqe",
+    "exploreMenu": "Shikoni Menynë",
+    "menuProjects": {
+      "veraria": {
+        "title": "Katalogu i Verërave Veraria Musej",
+        "category": "Dizajn Katalogësh Vere",
+        "description": "Një katalog elegant me 34 faqe, me fotografi vreshtash, tipografi të rafinuar dhe prezantim të kujdesshëm.",
+        "imageAlt": "Katalogu i verërave Veraria Musej"
+      },
+      "food": {
+        "title": "Menyja e Restorantit Centrali",
+        "category": "Dizajn Menysh Restorantesh",
+        "description": "Një meny restoranti me tetë faqe, e frymëzuar nga Mesdheu, me identitet vizual të unifikuar dhe përshkrime në dy gjuhë.",
+        "imageAlt": "Menyja e ushqimit të restorantit Centrali"
+      },
+      "cocktails": {
+        "title": "Menyja e Koktejeve Centrali",
+        "category": "Dizajn Menysh Koktejesh",
+        "description": "Një meny koktejesh me tetë faqe, me ilustrime, nuanca elegante blu dhe stil vizual të harmonizuar.",
+        "imageAlt": "Menyja e koktejeve Centrali"
+      },
+      "main": {
+        "title": "Menyja Dygjuhëshe Centrali",
+        "category": "Dizajn Menysh Shumëgjuhëshe",
+        "description": "Një meny e plotë me 12 faqe në shqip dhe anglisht, me detaje dekorative dhe kategori të organizuara qartë.",
+        "imageAlt": "Menyja dygjuhëshe e restorantit Centrali"
+      }
+    },
+    "gallery": {
+      "close": "Mbyllni Pamjen",
+      "previous": "Faqja e Mëparshme",
+      "next": "Faqja Tjetër",
+      "page": "Faqja",
+      "openPdf": "Hapni PDF-në",
+      "downloadPdf": "Shkarkoni PDF-në"
+    },
+    "ctaTitle": "Keni një Projekt në Mendje?",
+    "ctaDescription": "Nëse ju nevojitet një faqe webi profesionale, një meny e dizajnuar bukur ose një prani e plotë dixhitale, do të donim ta kthenim idenë tuaj në realitet.",
+    "ctaButton": "Le të Punojmë së Bashku"
+  }
+}

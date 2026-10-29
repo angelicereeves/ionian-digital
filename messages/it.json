@@ -1,0 +1,626 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "services": "Servizi",
+    "portfolio": "I Nostri Lavori",
+    "pricing": "Prezzi",
+    "about": "Chi Siamo",
+    "contact": "Contatti",
+    "getStarted": "Inizia il Tuo Progetto"
+  },
+  "Hero": {
+    "badge": "Sviluppo Web & Design Creativo",
+    "title": "Siti Web Straordinari. Brand Indimenticabili.",
+    "description": "Creiamo siti web moderni e multilingue e menù per ristoranti progettati professionalmente, aiutando le attività a distinguersi, entrare in contatto con i clienti e crescere.",
+    "primaryButton": "Inizia il Tuo Progetto",
+    "secondaryButton": "Scopri i Nostri Lavori",
+    "trust": {
+      "technology": "Tecnologia Moderna",
+      "multilingual": "Siti Web Multilingue",
+      "menuDesign": "Design di Menù e Cataloghi"
+    },
+    "mockup": {
+      "eyebrow": "ESPERIENZE DIGITALI",
+      "titleLine1": "Design Straordinario.",
+      "titleLine2": "Risultati Concreti.",
+      "description": "Esperienze digitali progettate con cura per valorizzare la tua attività.",
+      "button": "Esplora"
+    },
+    "floatingBadge": {
+      "title": "Multilingue",
+      "description": "Per un pubblico internazionale"
+    },
+    "menuBadge": {
+      "title": "Design di Menù",
+      "description": "Stampa & Digitale"
+    }
+  },
+  "Services": {
+    "eyebrow": "Cosa Facciamo",
+    "title": "Tutto Ciò di Cui la Tua Attività Ha Bisogno per Crescere Online.",
+    "description": "Dai siti web eleganti alle esperienze multilingue, creiamo soluzioni digitali che aiutano la tua attività a crescere.",
+    "webDesign": "Progettazione Web",
+    "webDesignDescription": "Siti web moderni e responsive, progettati per valorizzare la tua attività e trasformare i visitatori in clienti.",
+    "multilingual": "Siti Web Multilingue",
+    "multilingualDescription": "Raggiungi più clienti con siti web professionali disponibili in diverse lingue.",
+    "performance": "Velocità e Prestazioni",
+    "performanceDescription": "Siti web veloci, ottimizzati per dispositivi mobili e sviluppati secondo le migliori pratiche SEO.",
+    "maintenance": "Manutenzione del Sito",
+    "maintenanceDescription": "Mantieni il tuo sito aggiornato, sicuro e sempre funzionante grazie al supporto continuo.",
+    "learnMore": "Scopri di Più",
+    "menuDesign": "Design Professionale di Menù",
+    "menuDesignDescription": "Menù per ristoranti, carte dei vini e menù cocktail progettati con cura. Disponibili in più lingue e pronti per la stampa o l'utilizzo digitale.",
+    "viewAllServices": "Scopri Tutti i Servizi"
+  },
+  "Pricing": {
+    "eyebrow": "Prezzi Chiari e Trasparenti",
+    "title": "Il Sito Web Giusto per Ogni Attività.",
+    "description": "Siti web professionali progettati in base ai tuoi obiettivi e al tuo budget. Scegli il pacchetto più adatto alla tua attività.",
+    "startingAt": "A partire da",
+    "oneTime": "/ progetto",
+    "mostPopular": "Più Popolare",
+    "choosePlan": "Inizia Ora",
+    "starter": {
+      "name": "Starter",
+      "description": "Una presenza online elegante e professionale per le piccole attività."
+    },
+    "business": {
+      "name": "Business",
+      "description": "Più pagine, più lingue e più possibilità per le attività in crescita."
+    },
+    "premium": {
+      "name": "Premium",
+      "description": "Un'esperienza digitale personalizzata sulle esigenze della tua attività."
+    },
+    "starterPages": "Fino a 3 pagine",
+    "businessPages": "Fino a 7 pagine",
+    "premiumPages": "Numero di pagine personalizzato",
+    "starterLanguages": "2 lingue incluse",
+    "businessLanguages": "3 lingue incluse",
+    "premiumLanguages": "4 lingue incluse",
+    "starterRevisions": "2 cicli di revisioni",
+    "businessRevisions": "3 cicli di revisioni",
+    "premiumRevisions": "Revisioni personalizzate",
+    "responsive": "Design responsive per dispositivi mobili",
+    "contactForm": "Modulo di contatto",
+    "seo": "Ottimizzazione SEO di base",
+    "googleMaps": "Integrazione Google Maps",
+    "basicAnimations": "Animazioni di base",
+    "advancedAnimations": "Animazioni avanzate",
+    "customAnimations": "Animazioni personalizzate",
+    "basicIntegrations": "Integrazioni selezionate",
+    "advancedIntegrations": "Integrazioni avanzate",
+    "maintenanceTitle": "Mantieni il Tuo Sito Sempre Perfetto.",
+    "maintenanceDescription": "Manutenzione opzionale, aggiornamenti e supporto tecnico per mantenere il tuo sito sempre efficiente.",
+    "perMonth": "/ mese",
+    "optional": "Opzionale",
+    "learnMore": "Scopri di più",
+    "disclaimer": "I prezzi indicati sono di partenza. Il costo finale dipende dalle esigenze del progetto. Hosting, registrazione del dominio e traduzioni professionali sono quotati separatamente, salvo diversa indicazione nel preventivo."
+  },
+  "WhyChooseUs": {
+    "eyebrow": "Perché Ionian Digital",
+    "title": "Più di un Sito Web. Un Partner per la Tua Crescita.",
+    "description": "Uniamo lo sviluppo web moderno alla conoscenza del mercato albanese per creare siti belli, pratici e progettati intorno ai tuoi obiettivi.",
+    "cta": "Lavoriamo Insieme",
+    "localTitle": "Conoscenza del Territorio",
+    "localDescription": "Con sede in Albania, comprendiamo le esigenze delle attività locali e l'importanza di raggiungere visitatori internazionali.",
+    "languagesTitle": "Siti Web Multilingue",
+    "languagesDescription": "Raggiungi clienti albanesi e internazionali con siti progettati per funzionare perfettamente in più lingue.",
+    "technologyTitle": "Tecnologia Moderna",
+    "technologyDescription": "Utilizziamo strumenti moderni per creare siti veloci, responsive, intuitivi e affidabili.",
+    "pricingTitle": "Prezzi Trasparenti",
+    "pricingDescription": "Pacchetti chiari, preventivi semplici e nessuna sorpresa sui servizi inclusi.",
+    "personalTitle": "Servizio Personalizzato",
+    "personalDescription": "Comunichi direttamente con la sviluppatrice che realizza il tuo sito, dal primo incontro fino al lancio."
+  },
+  "OurProcess": {
+    "eyebrow": "Come Lavoriamo",
+    "title": "Dalla Prima Conversazione al Lancio.",
+    "description": "Un processo semplice e collaborativo pensato per trasformare la tua idea in realtà senza complicazioni inutili.",
+    "discoveryTitle": "Consulenza",
+    "discoveryDescription": "Parliamo della tua attività, dei tuoi obiettivi, del pubblico e delle funzionalità necessarie.",
+    "designTitle": "Design",
+    "designDescription": "Creiamo una direzione visiva che rappresenta il tuo brand e offre un'ottima prima impressione.",
+    "developmentTitle": "Sviluppo",
+    "developmentDescription": "Realizziamo il tuo sito responsive e multilingue, testandolo su diversi dispositivi.",
+    "launchTitle": "Lancio",
+    "launchDescription": "Dopo la tua approvazione, pubblichiamo il sito e ti aiutiamo a capire come utilizzarlo.",
+    "cta": "Inizia il Tuo Progetto"
+  },
+  "CTA": {
+    "eyebrow": "Creiamo Qualcosa di Straordinario",
+    "title": "Pronto a Portare la Tua Attività Online?",
+    "description": "La tua attività merita un sito web straordinario, funzionale e capace di raggiungere più clienti. Creiamo insieme qualcosa di cui essere orgogliosi.",
+    "primaryButton": "Inizia il Tuo Progetto",
+    "secondaryButton": "Scopri i Prezzi",
+    "trustOne": "Prezzi Trasparenti",
+    "trustTwo": "Siti Web Multilingue",
+    "trustThree": "Servizio Personalizzato"
+  },
+  "ServicesPage": {
+    "heroEyebrow": "Le Nostre Competenze",
+    "heroTitle": "Soluzioni Digitali Pensate per la Tua Attività.",
+    "heroDescription": "Dai siti web moderni alle esperienze multilingue, creiamo soluzioni digitali che aiutano le attività a raggiungere più clienti e crescere online.",
+    "heroButton": "Inizia il Tuo Progetto",
+    "servicesEyebrow": "I Nostri Servizi",
+    "servicesTitle": "Tutto Ciò che Serve per Distinguerti Online.",
+    "servicesDescription": "Servizi professionali di design e sviluppo web su misura per la tua attività e i tuoi obiettivi.",
+    "webDesignTitle": "Design e Sviluppo Web",
+    "webDesignDescription": "Siti web belli, veloci e responsive che rappresentano la tua attività e aiutano i clienti a sceglierti.",
+    "webDesignFeature1": "Design visivo personalizzato",
+    "webDesignFeature2": "Layout ottimizzati per dispositivi mobili",
+    "webDesignFeature3": "Moduli di contatto e richieste",
+    "multilingualTitle": "Siti Web Multilingue",
+    "multilingualDescription": "Raggiungi clienti locali e internazionali con un sito progettato per funzionare perfettamente in più lingue.",
+    "multilingualFeature1": "Opzioni in albanese, inglese, italiano e greco",
+    "multilingualFeature2": "Cambio lingua intuitivo",
+    "multilingualFeature3": "Contenuti e navigazione localizzati",
+    "restaurantTitle": "Siti per Ristoranti e Ospitalità",
+    "restaurantDescription": "Presenta il tuo ristorante, bar o attività ricettiva con un sito attraente che aiuti i clienti a scoprire i tuoi servizi.",
+    "restaurantFeature1": "Menu digitali e gallerie fotografiche",
+    "restaurantFeature2": "Richieste di prenotazione",
+    "restaurantFeature3": "Mappe e integrazioni di contatto",
+    "tourismTitle": "Siti per Turismo e Alloggi",
+    "tourismDescription": "Aiuta i viaggiatori a scoprire tour, attività, alloggi ed esperienze prima del loro arrivo.",
+    "tourismFeature1": "Presentazione di tour e servizi",
+    "tourismFeature2": "Richieste di prenotazione",
+    "tourismFeature3": "Informazioni multilingue",
+    "redesignTitle": "Restyling di Siti Web",
+    "redesignDescription": "Rinnova il tuo sito esistente con un look moderno, una navigazione migliorata e un'esperienza utente più piacevole.",
+    "redesignFeature1": "Aggiornamento visivo moderno",
+    "redesignFeature2": "Miglioramenti per dispositivi mobili",
+    "redesignFeature3": "Migliore organizzazione dei contenuti",
+    "maintenanceTitle": "Manutenzione e Supporto",
+    "maintenanceDescription": "Mantieni il tuo sito aggiornato e funzionante con un servizio di supporto continuativo opzionale.",
+    "maintenanceFeature1": "Aggiornamenti dei contenuti",
+    "maintenanceFeature2": "Manutenzione tecnica",
+    "maintenanceFeature3": "Assistenza continuativa",
+    "industriesEyebrow": "Con Chi Lavoriamo",
+    "industriesTitle": "Creato per le Attività che Rendono Speciale l'Albania.",
+    "industriesDescription": "Dai ristoranti sul mare di Saranda agli alloggi boutique e alle attività locali, comprendiamo l'importanza di una presenza professionale online.",
+    "industriesButton": "Parliamo della Tua Attività",
+    "industry": {
+      "restaurants": "Ristoranti e Bar",
+      "hospitality": "Hotel e Alloggi",
+      "tourism": "Tour e Attività",
+      "cafes": "Caffetterie e Panetterie",
+      "local": "Attività Locali"
+    },
+    "includedEyebrow": "Gli Elementi Essenziali",
+    "includedTitle": "Una Base Solida per Ogni Sito Web.",
+    "includedDescription": "Ci concentriamo sui dettagli che rendono un sito utile, accessibile e piacevole per i clienti.",
+    "included": {
+      "responsive": {
+        "title": "Design Responsive",
+        "description": "Layout progettati per funzionare su smartphone, tablet e computer."
+      },
+      "performance": {
+        "title": "Prestazioni",
+        "description": "Tecnologie moderne che danno priorità alla velocità e alla facilità d'uso."
+      },
+      "seo": {
+        "title": "Fondamenti SEO",
+        "description": "Configurazione SEO essenziale per aiutare i motori di ricerca a comprendere il sito."
+      },
+      "multilingual": {
+        "title": "Opzioni Multilingue",
+        "description": "Lingue selezionate in base al pacchetto e al pubblico."
+      },
+      "reliable": {
+        "title": "Sviluppo Affidabile",
+        "description": "Sviluppo e test accurati prima della pubblicazione."
+      },
+      "support": {
+        "title": "Supporto al Lancio",
+        "description": "Comunicazione e indicazioni chiare durante la pubblicazione."
+      }
+    },
+    "includedNote": "Le funzionalità, il numero di lingue e i servizi continuativi dipendono dal pacchetto e dal preventivo.",
+    "ctaTitle": "Creiamo il Sito Web che la Tua Attività Merita.",
+    "ctaDescription": "Raccontaci della tua attività e della tua idea. Ti aiuteremo a scegliere la soluzione giusta.",
+    "ctaPrimary": "Inizia il Tuo Progetto",
+    "ctaSecondary": "Scopri i Prezzi",
+    "menuDesign": {
+      "eyebrow": "Servizi Creativi",
+      "title": "Design Professionale di Menù",
+      "description": "Menù progettati con cura per valorizzare l'identità della tua attività e lasciare un'impressione duratura. Dai menù dei ristoranti ai cataloghi dei vini, creiamo design eleganti per la stampa e il digitale.",
+      "types": {
+        "food": {
+          "title": "Menù per Ristoranti e Caffè",
+          "description": "Menù personalizzati con impaginazioni curate, prezzi chiari e uno stile visivo coerente con l'identità del tuo locale."
+        },
+        "drinks": {
+          "title": "Carte dei Vini e Cocktail",
+          "description": "Eleganti carte dei vini, menù cocktail e cataloghi di bevande progettati per valorizzare la tua offerta."
+        },
+        "multilingual": {
+          "title": "Design di Menù Multilingue",
+          "description": "Menù impaginati professionalmente in più lingue, per accogliere clienti provenienti da tutto il mondo."
+        }
+      },
+      "formatsLabel": "Stampa e Digitale",
+      "formatsDescription": "Ricevi file PDF di alta qualità pronti per la stampa e versioni digitali da condividere online o tramite codici QR.",
+      "portfolioButton": "Scopri i Nostri Lavori",
+      "contactButton": "Richiedi un Preventivo"
+    }
+  },
+  "PricingPage": {
+    "heroEyebrow": "Prezzi Chiari e Trasparenti",
+    "heroTitle": "Un Sito Web Professionale. Un Investimento per la Tua Attività.",
+    "heroDescription": "Pacchetti chiari, design curato e nessuna complicazione inutile. Trova il punto di partenza giusto per la tua attività.",
+    "comparisonEyebrow": "Confronta i Pacchetti",
+    "comparisonTitle": "Trova la Soluzione Ideale.",
+    "comparisonDescription": "Uno sguardo più dettagliato alle funzionalità e ai servizi disponibili con ogni pacchetto.",
+    "comparisonFeature": "Funzionalità",
+    "comparisonNote": "Richieste personalizzate e funzionalità aggiuntive possono essere discusse durante la consulenza.",
+    "plans": {
+      "starter": "Starter",
+      "business": "Business",
+      "premium": "Premium"
+    },
+    "comparison": {
+      "pages": "Numero di Pagine",
+      "languages": "Lingue Incluse",
+      "responsive": "Design Responsive",
+      "contactForm": "Modulo di Contatto",
+      "seo": "SEO Essenziale",
+      "maps": "Google Maps",
+      "animations": "Animazioni",
+      "integrations": "Integrazioni Personalizzate",
+      "revisions": "Cicli di Revisione"
+    },
+    "values": {
+      "starterPages": "Fino a 3",
+      "businessPages": "Fino a 7",
+      "premiumPages": "Personalizzato",
+      "starterLanguages": "2",
+      "businessLanguages": "3",
+      "premiumLanguages": "4",
+      "basic": "Base",
+      "advanced": "Avanzate",
+      "custom": "Personalizzate",
+      "selected": "Selezionate",
+      "twoRounds": "2",
+      "threeRounds": "3"
+    },
+    "included": "Incluso",
+    "notIncluded": "—",
+    "detailsEyebrow": "Informazioni Utili",
+    "detailsTitle": "Molto Più di un Prezzo.",
+    "detailsDescription": "Crediamo che realizzare un sito web debba essere semplice e chiaro fin dalla prima conversazione.",
+    "details": {
+      "languages": {
+        "title": "Raggiungi Più Clienti",
+        "description": "I siti multilingue aiutano la tua attività a comunicare con clienti locali e visitatori internazionali."
+      },
+      "transparent": {
+        "title": "Preventivi Chiari",
+        "description": "Prima di iniziare, riceverai un preventivo che descrive l'ambito del progetto, i risultati previsti e i costi."
+      },
+      "support": {
+        "title": "Un'Esperienza Collaborativa",
+        "description": "Avrai una comunicazione diretta durante tutto il processo di design e sviluppo."
+      }
+    },
+    "faqEyebrow": "Domande Frequenti",
+    "faqTitle": "Hai Domande? Abbiamo le Risposte.",
+    "faqDescription": "Tutto quello che devi sapere prima di iniziare il tuo progetto web.",
+    "faq": {
+      "payment": {
+        "question": "Devo pagare tutto in anticipo?",
+        "answer": "Le condizioni di pagamento sono indicate nel preventivo. Per la maggior parte dei progetti possiamo concordare un acconto iniziale e il saldo prima del lancio."
+      },
+      "timeline": {
+        "question": "Quanto tempo serve per realizzare un sito?",
+        "answer": "I tempi dipendono dal numero di pagine, lingue e funzionalità. Forniremo una stima dopo aver esaminato le tue esigenze."
+      },
+      "domain": {
+        "question": "Dominio e hosting sono inclusi?",
+        "answer": "La registrazione del dominio e l'hosting sono quotati separatamente, salvo esplicita inclusione nel preventivo. Ti aiuteremo a valutare le opzioni."
+      },
+      "languages": {
+        "question": "Posso aggiungere altre lingue al sito?",
+        "answer": "Certamente. Ogni pacchetto include un numero definito di lingue e le lingue aggiuntive possono essere quotate in base alla quantità di contenuti."
+      },
+      "updates": {
+        "question": "Potete aggiornare il sito dopo il lancio?",
+        "answer": "Sì. I piani di manutenzione opzionali partono da 29 € al mese. I servizi inclusi saranno specificati nell'accordo di manutenzione."
+      },
+      "changes": {
+        "question": "E se volessi modifiche durante lo sviluppo?",
+        "answer": "Ogni pacchetto include cicli di revisione. Le modifiche aggiuntive o fuori dall'ambito concordato possono essere quotate separatamente."
+      },
+      "ownership": {
+        "question": "Sarò proprietario del mio sito?",
+        "answer": "La proprietà e le modalità di accesso saranno definite chiaramente nell'accordo di progetto, comprese eventuali licenze o servizi di terze parti."
+      },
+      "custom": {
+        "question": "E se il mio progetto non rientra in un pacchetto?",
+        "answer": "Nessun problema. Raccontaci cosa ti serve e prepareremo un preventivo personalizzato."
+      }
+    },
+    "ctaTitle": "Non Sai Quale Pacchetto Scegliere?",
+    "ctaDescription": "Raccontaci della tua attività e di cosa vorresti realizzare. Ti aiuteremo a trovare la soluzione giusta.",
+    "ctaButton": "Parliamo del Tuo Progetto",
+    "menuPricing": {
+      "eyebrow": "Prezzi per il Design Creativo",
+      "title": "Menù che Lasciano il Segno.",
+      "description": "Da un semplice restyling a un menù multilingue completo, scegli il pacchetto di design più adatto alla tua attività.",
+      "popular": "Più Richiesto",
+      "startingAt": "A partire da",
+      "customQuoteLabel": "Su misura per il tuo progetto",
+      "customQuote": "Preventivo Personalizzato",
+      "perProject": "/ progetto",
+      "includes": "Cosa include",
+      "button": "Richiedi un Preventivo",
+      "disclaimer": "I prezzi indicati sono di partenza. Il costo finale dipende dal numero di pagine, dai contenuti, dalle lingue e dalla complessità del design. Stampa e traduzioni professionali sono quotate separatamente.",
+      "ctaTitle": "Hai Bisogno di una Carta dei Vini o di Qualcosa di Unico?",
+      "ctaDescription": "Raccontaci del tuo menù, della carta delle bevande o del tuo catalogo. Prepariamo preventivi personalizzati per progetti più ampi e dettagliati.",
+      "ctaButton": "Parliamo del Tuo Progetto",
+      "packages": {
+        "refresh": {
+          "name": "Restyling Menù",
+          "description": "Rinnova il tuo menù esistente con un aspetto più curato e moderno, senza ripartire da zero.",
+          "features": [
+            "Restyling del menù esistente",
+            "Fino a 2 pagine",
+            "Tipografia e impaginazione chiare",
+            "PDF pronto per la stampa"
+          ]
+        },
+        "custom": {
+          "name": "Design Menù Personalizzato",
+          "description": "Un menù originale progettato intorno al tuo brand, all’atmosfera e alla tua offerta.",
+          "features": [
+            "Design originale coordinato al brand",
+            "Fino a 4 pagine",
+            "Impaginazione per cibi o bevande",
+            "PDF per stampa e digitale"
+          ]
+        },
+        "multilingual": {
+          "name": "Menù Multilingue",
+          "description": "Accogli più ospiti con un menù progettato professionalmente in due lingue.",
+          "features": [
+            "Fino a 4 pagine",
+            "2 lingue incluse",
+            "Impaginazione multilingue coerente",
+            "PDF per stampa e digitale"
+          ]
+        },
+        "catalog": {
+          "name": "Carte dei Vini e Menù Estesi",
+          "description": "Una soluzione su misura per ampie carte dei vini, cataloghi multipagina e menù complessi.",
+          "features": [
+            "Numero di pagine personalizzato",
+            "Impaginazione del catalogo su misura",
+            "Possibilità di più lingue",
+            "Preventivo in base al progetto"
+          ]
+        }
+      }
+    }
+  },
+  "AboutPage": {
+    "heroEyebrow": "Chi Siamo",
+    "heroTitle": "Design Curato. Tecnologia Moderna. Un Approccio Personale.",
+    "heroDescription": "Ionian Digital è uno studio indipendente di sviluppo web e design creativo con sede a Saranda, in Albania. Uniamo tecnologia moderna e oltre dieci anni di esperienza diretta nella ristorazione per aiutare le attività a lasciare un’impressione duratura.",
+    "storyEyebrow": "La Nostra Storia",
+    "storyTitle": "Creato con uno Scopo. Ispirato alla Costa Ionica.",
+    "storyParagraph1": "Ionian Digital nasce da un'idea semplice: siti web moderni e professionali dovrebbero essere accessibili alle attività di ogni dimensione.",
+    "storyParagraph2": "Con sede a Saranda, in Albania, troviamo ispirazione nella creatività, nell'ospitalità e nello spirito imprenditoriale delle attività che ci circondano.",
+    "storyParagraph3": "Il nostro obiettivo è unire lo sviluppo web moderno a un servizio personale, aiutando le attività a presentarsi professionalmente a clienti locali e internazionali.",
+    "visualDescription": "Siti web moderni progettati per collegare le attività locali al mondo.",
+    "visualMultilingual": "Esperienze Multilingue",
+    "visualModern": "Sviluppo Web Moderno",
+    "founderEyebrow": "Conosci la Fondatrice",
+    "founderTitle": "La Persona Dietro Ionian Digital.",
+    "founderRole": "Fondatrice e Sviluppatrice Principale",
+    "founderLocation": "Saranda, Albania",
+    "founderHeading": "Ciao, sono Angelica.",
+    "founderParagraph1": "Ciao, sono Angelica. Prima di diventare sviluppatrice web, ho lavorato per oltre dieci anni nel settore dell’ospitalità: dal servizio ai clienti alla formazione dei team, fino alla gestione dei ristoranti. So per esperienza cosa serve per far funzionare un’attività e invogliare i clienti a tornare.",
+    "founderParagraph2": "Quell’esperienza guida tutto ciò che creo. So che la prima impressione di un cliente spesso nasce prima ancora di entrare nel locale. Un sito chiaro, un menù invitante e un modo semplice per mettersi in contatto possono fare la differenza.",
+    "founderParagraph3": "Oggi unisco questa conoscenza pratica alle mie competenze in React, Next.js, TypeScript e Tailwind CSS. Che si tratti di un sito web, di un menù multilingue o di un catalogo vini, progetto soluzioni utili sia all’attività sia ai suoi clienti.",
+    "founderButton": "Lavoriamo Insieme",
+    "valuesEyebrow": "In Cosa Crediamo",
+    "valuesTitle": "I Valori che Guidano il Nostro Lavoro.",
+    "valuesDescription": "Alcuni principi semplici guidano ogni nostro progetto.",
+    "values": {
+      "personal": {
+        "title": "Attenzione Personale",
+        "description": "Ogni attività è diversa. Dedichiamo tempo a comprendere i tuoi obiettivi e le tue esigenze."
+      },
+      "accessible": {
+        "title": "Design Accessibile",
+        "description": "I siti professionali devono essere facili da usare, ottimizzati per dispositivi mobili e accessibili in più lingue."
+      },
+      "thoughtful": {
+        "title": "Sviluppo Attento",
+        "description": "Ci concentriamo su design pulito, funzionalità pratiche e tecnologia utile alla tua attività."
+      },
+      "results": {
+        "title": "Orientati al Business",
+        "description": "Creiamo siti che aiutano i clienti a comprendere i tuoi servizi e a contattarti con fiducia."
+      }
+    },
+    "missionEyebrow": "La Nostra Missione",
+    "missionTitle": "Aiutare le Attività Locali a Lasciare un'Impressione Digitale Duratura.",
+    "missionDescription": "Crediamo che ogni attività meriti una presenza online che rifletta la qualità dei suoi servizi. La nostra missione è rendere lo sviluppo web professionale e multilingue accessibile e pratico.",
+    "ctaTitle": "Creiamo Qualcosa di Straordinario Insieme.",
+    "ctaDescription": "Che tu stia aprendo una nuova attività o voglia migliorare il tuo sito esistente, ci piacerebbe conoscere la tua idea.",
+    "ctaPrimary": "Inizia il Tuo Progetto",
+    "ctaSecondary": "Scopri i Nostri Servizi",
+    "founderQuote": "Non voglio soltanto che la tua attività abbia un bell’aspetto. Voglio aiutarti ad attirare più clienti.",
+    "founderExperienceBadge": "Oltre 10 Anni nell’Ospitalità"
+  },
+  "ContactPage": {
+    "heroEyebrow": "Lavoriamo Insieme",
+    "heroTitle": "Hai un Progetto in Mente? Parliamone.",
+    "heroDescription": "Raccontaci del tuo progetto per un sito web, un menù o un catalogo. Saremo felici di aiutarti a trasformare le tue idee in realtà.",
+    "formTitle": "Raccontaci del Tuo Progetto",
+    "formDescription": "Compila il modulo qui sotto e valuteremo la tua richiesta.",
+    "nameLabel": "Il Tuo Nome",
+    "namePlaceholder": "Nome e cognome",
+    "emailLabel": "Indirizzo Email",
+    "emailPlaceholder": "tu@esempio.com",
+    "businessLabel": "Nome dell'Attività",
+    "businessPlaceholder": "La tua attività o organizzazione",
+    "packageLabel": "Pacchetto di Interesse",
+    "messageLabel": "Dettagli del Progetto",
+    "messagePlaceholder": "Raccontaci della tua attività, delle esigenze per il sito web o il design del menù e di tutti i dettagli che hai in mente...",
+    "packages": {
+      "starter": "Starter — da 200 €",
+      "business": "Business — da 450 €",
+      "premium": "Premium — da 900 €",
+      "custom": "Progetto Personalizzato / Non Sono Sicuro",
+      "menuRefresh": "Restyling Menù — 50 €",
+      "menuCustom": "Menù Personalizzato — 100 €",
+      "menuMultilingual": "Menù Multilingue — 150 €",
+      "menuQuote": "Catalogo Esteso / Preventivo Personalizzato"
+    },
+    "submitButton": "Invia la Richiesta",
+    "sending": "Invio in corso...",
+    "successMessage": "Il tuo messaggio è stato inviato con successo! Grazie per aver contattato Ionian Digital.",
+    "errorMessage": "Si è verificato un problema durante l'invio. Riprova oppure contattaci direttamente via email.",
+    "privacyNote": "Le tue informazioni saranno utilizzate esclusivamente per rispondere alla tua richiesta.",
+    "emailCardTitle": "Scrivici Direttamente",
+    "emailCardDescription": "Preferisci l'email? Puoi contattarci direttamente a:",
+    "locationCardTitle": "Con Sede in Albania",
+    "location": "Saranda, Albania",
+    "locationDescription": "Collaboriamo con attività in tutta l'Albania e oltre.",
+    "languageCardTitle": "Design Multilingue",
+    "languageCardDescription": "Creiamo siti web e menù per un pubblico albanese, anglofono, italiano e greco.",
+    "noteTitle": "Non Sai Da Dove Iniziare?",
+    "noteDescription": "Non devi avere già tutto definito. Raccontaci un po' della tua attività e ti aiuteremo a valutare le possibilità.",
+    "whatsappCardTitle": "Scrivici su WhatsApp",
+    "whatsappCardDescription": "Hai una domanda su un sito web o sul design di un menù? Scrivici direttamente su WhatsApp.",
+    "whatsappButton": "Inizia una Conversazione",
+    "whatsappMessage": "Ciao! Sono interessato ai vostri servizi di sviluppo web o design di menù e vorrei saperne di più su Ionian Digital.",
+    "eyebrow": "Lavoriamo Insieme",
+    "title": "Hai un Progetto in Mente? Parliamone.",
+    "description": "Raccontaci della tua attività e di cosa vorresti realizzare. Saremo felici di aiutarti a trasformare le tue idee in realtà.",
+    "packageStarter": "Starter — da 200 €",
+    "packageBusiness": "Business — da 450 €",
+    "packagePremium": "Premium — da 900 €",
+    "packageCustom": "Progetto Personalizzato / Non Sono Sicuro",
+    "formNote": "Le tue informazioni saranno utilizzate esclusivamente per rispondere alla tua richiesta.",
+    "locationCardDescription": "Collaboriamo con attività in tutta l'Albania e oltre.",
+    "locationValue": "Saranda, Albania",
+    "sidebarCtaTitle": "Non Sai Da Dove Iniziare?",
+    "sidebarCtaDescription": "Non devi avere già tutto definito. Raccontaci un po' della tua attività e ti aiuteremo a valutare le possibilità.",
+    "serviceLabel": "Come possiamo aiutarti?",
+    "services": {
+      "website": "Sviluppo Web",
+      "menu": "Design di Menù e Cataloghi"
+    },
+    "menuDetailsTitle": "Parlaci del tuo menù",
+    "menuDetailsDescription": "Questi dettagli sono facoltativi e ci aiutano a preparare un preventivo accurato.",
+    "menuKindLabel": "Tipo di menù",
+    "menuKinds": {
+      "food": "Menù dei piatti",
+      "cocktails": "Cocktail e bevande",
+      "wine": "Catalogo dei vini",
+      "other": "Altro"
+    },
+    "menuPagesLabel": "Numero approssimativo di pagine",
+    "existingMenuLabel": "Si tratta di un nuovo menù o di un restyling?",
+    "existingMenu": {
+      "new": "Creare un nuovo menù",
+      "redesign": "Rinnovare un menù esistente"
+    },
+    "menuFormatLabel": "Formato preferito",
+    "menuFormats": {
+      "print": "Pronto per la stampa",
+      "digital": "PDF digitale",
+      "both": "Stampa e digitale"
+    },
+    "menuLanguagesLabel": "Lingue richieste",
+    "menuLanguagesPlaceholder": "Es. albanese, inglese, italiano"
+  },
+  "PortfolioPage": {
+    "heroEyebrow": "I Nostri Lavori Creativi",
+    "heroTitle": "Progetti che Parlano da Soli.",
+    "heroDescription": "Esplora la nostra collezione di siti web moderni, menù professionali per ristoranti e cataloghi curati nei dettagli. Ogni progetto è pensato per aiutare le attività a distinguersi.",
+    "previewLabel": "Anteprima del Progetto",
+    "viewWebsite": "Visita il Sito",
+    "filters": {
+      "all": "Tutti i Progetti",
+      "websites": "Siti Web",
+      "menus": "Design di Menù e Cataloghi"
+    },
+    "sections": {
+      "websitesEyebrow": "Esperienze Digitali",
+      "websitesTitle": "I Siti Web che Abbiamo Realizzato",
+      "websitesDescription": "Siti web moderni e responsive progettati per aiutare le attività a rafforzare la propria presenza online.",
+      "menusEyebrow": "Design Creativo",
+      "menusTitle": "Menù e Cataloghi che Abbiamo Progettato",
+      "menusDescription": "Menù per ristoranti, carte dei cocktail e cataloghi dei vini progettati con cura per valorizzare ogni brand."
+    },
+    "projects": {
+      "vela": {
+        "title": "Vela Marine",
+        "industry": "Ristorazione e Ospitalità",
+        "description": "Un sito web moderno e responsive progettato per valorizzare l'atmosfera mediterranea, l'esperienza gastronomica e le proposte di Vela Marine.",
+        "imageAlt": "Schermata del sito web del ristorante Vela Marine"
+      },
+      "bistrica": {
+        "title": "Bistrica Paddleboard",
+        "industry": "Turismo e Attività all'Aperto",
+        "description": "Un sito web dinamico per un'attività di paddleboarding, con immagini coinvolgenti, informazioni chiare sui servizi e un'esperienza ottimizzata per dispositivi mobili.",
+        "imageAlt": "Schermata del sito web Bistrica Paddleboard"
+      },
+      "haxhi": {
+        "title": "Ristorante Haxhi",
+        "industry": "Ristorazione e Ospitalità",
+        "description": "Un elegante sito web per ristorante con layout moderni, tipografia raffinata e un'esperienza fluida su ogni dispositivo.",
+        "imageAlt": "Schermata del sito web del ristorante Haxhi"
+      },
+      "crave": {
+        "title": "Crave Café",
+        "industry": "Caffetteria e Ristorazione",
+        "description": "Un sito web accattivante per una caffetteria, progettato per mettere in risalto il menù, le promozioni e la personalità del brand.",
+        "imageAlt": "Schermata del sito web Crave Café"
+      }
+    },
+    "featuredProject": "Progetto in Evidenza",
+    "pageCount": "{count} pagine",
+    "exploreMenu": "Visualizza il Menù",
+    "menuProjects": {
+      "veraria": {
+        "title": "Catalogo Vini Veraria Musej",
+        "category": "Design di Cataloghi Vini",
+        "description": "Un elegante catalogo di 34 pagine con fotografie dei vigneti, tipografia raffinata e una presentazione curata.",
+        "imageAlt": "Catalogo vini Veraria Musej"
+      },
+      "food": {
+        "title": "Menù del Ristorante Centrali",
+        "category": "Design di Menù per Ristoranti",
+        "description": "Un menù di otto pagine ispirato al Mediterraneo, con un'identità visiva coordinata e descrizioni bilingue.",
+        "imageAlt": "Menù del ristorante Centrali"
+      },
+      "cocktails": {
+        "title": "Menù Cocktail Centrali",
+        "category": "Design di Menù Cocktail",
+        "description": "Un menù cocktail illustrato di otto pagine, con un'elegante palette blu e uno stile visivo armonioso.",
+        "imageAlt": "Menù cocktail Centrali"
+      },
+      "main": {
+        "title": "Menù Bilingue Centrali",
+        "category": "Design di Menù Multilingue",
+        "description": "Un menù completo di 12 pagine in albanese e inglese, con dettagli decorativi e categorie ben organizzate.",
+        "imageAlt": "Menù bilingue del ristorante Centrali"
+      }
+    },
+    "gallery": {
+      "close": "Chiudi la Visualizzazione",
+      "previous": "Pagina Precedente",
+      "next": "Pagina Successiva",
+      "page": "Pagina",
+      "openPdf": "Apri PDF",
+      "downloadPdf": "Scarica PDF"
+    },
+    "ctaTitle": "Hai un Progetto in Mente?",
+    "ctaDescription": "Che tu abbia bisogno di un sito web professionale, di un menù dal design elegante o di una presenza digitale completa, saremo felici di dare vita alla tua visione.",
+    "ctaButton": "Lavoriamo Insieme"
+  }
+}

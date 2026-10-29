@@ -1,0 +1,626 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Our Work",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "getStarted": "Start Your Project"
+  },
+  "Hero": {
+    "badge": "Web Development & Creative Design",
+    "title": "Beautiful Websites. Memorable Brands.",
+    "description": "We create modern, multilingual websites and professionally designed restaurant menus that help businesses stand out, connect with customers, and grow.",
+    "primaryButton": "Start Your Project",
+    "secondaryButton": "Explore Our Work",
+    "trust": {
+      "technology": "Modern Technology",
+      "multilingual": "Multilingual Websites",
+      "menuDesign": "Menu & Catalog Design"
+    },
+    "mockup": {
+      "eyebrow": "DIGITAL EXPERIENCES",
+      "titleLine1": "Beautiful Design.",
+      "titleLine2": "Powerful Results.",
+      "description": "Thoughtfully crafted digital experiences that elevate your business.",
+      "button": "Explore"
+    },
+    "floatingBadge": {
+      "title": "Multilingual",
+      "description": "Built for global audiences"
+    },
+    "menuBadge": {
+      "title": "Menu Design",
+      "description": "Print & Digital"
+    }
+  },
+  "Services": {
+    "eyebrow": "What We Do",
+    "title": "Everything Your Business Needs to Succeed Online.",
+    "description": "From beautiful websites to multilingual experiences, we create digital solutions that help your business grow.",
+    "webDesign": "Website Design",
+    "webDesignDescription": "Beautiful, responsive websites designed to showcase your business and turn visitors into customers.",
+    "multilingual": "Multilingual Websites",
+    "multilingualDescription": "Reach more customers with professionally designed websites available in multiple languages.",
+    "performance": "Speed & Performance",
+    "performanceDescription": "Fast-loading, mobile-friendly websites built with modern technology and search engine best practices.",
+    "maintenance": "Website Maintenance",
+    "maintenanceDescription": "Keep your website updated, secure, and running smoothly with ongoing support.",
+    "learnMore": "Learn More",
+    "menuDesign": "Professional Menu Design",
+    "menuDesignDescription": "Beautifully designed restaurant menus, wine lists, and cocktail menus. Available in multiple languages and ready for print or digital use.",
+    "viewAllServices": "Explore All Services"
+  },
+  "Pricing": {
+    "eyebrow": "Simple, Transparent Pricing",
+    "title": "The Right Website for Every Business.",
+    "description": "Professional websites designed around your goals and budget. Choose the package that fits your business.",
+    "startingAt": "Starting at",
+    "oneTime": "/ project",
+    "mostPopular": "Most Popular",
+    "choosePlan": "Get Started",
+    "starter": {
+      "name": "Starter",
+      "description": "A beautiful, professional online presence for small businesses."
+    },
+    "business": {
+      "name": "Business",
+      "description": "More pages, more languages, and more possibilities for growing businesses."
+    },
+    "premium": {
+      "name": "Premium",
+      "description": "A custom digital experience designed around your business."
+    },
+    "starterPages": "Up to 3 pages",
+    "businessPages": "Up to 7 pages",
+    "premiumPages": "Custom number of pages",
+    "starterLanguages": "2 languages included",
+    "businessLanguages": "3 languages included",
+    "premiumLanguages": "4 languages included",
+    "starterRevisions": "2 revision rounds",
+    "businessRevisions": "3 revision rounds",
+    "premiumRevisions": "Custom revision plan",
+    "responsive": "Mobile-friendly responsive design",
+    "contactForm": "Contact form",
+    "seo": "Essential SEO setup",
+    "googleMaps": "Google Maps integration",
+    "basicAnimations": "Basic animations",
+    "advancedAnimations": "Advanced animations",
+    "customAnimations": "Custom animations",
+    "basicIntegrations": "Selected integrations",
+    "advancedIntegrations": "Advanced integrations",
+    "maintenanceTitle": "Keep Your Website Running Beautifully.",
+    "maintenanceDescription": "Optional ongoing maintenance, updates, and technical support to keep your website performing at its best.",
+    "perMonth": "/ month",
+    "optional": "Optional",
+    "learnMore": "Learn more",
+    "disclaimer": "Prices are starting estimates. Final pricing depends on your project requirements. Hosting, domain registration, and professional translation services are quoted separately unless included in your proposal."
+  },
+  "WhyChooseUs": {
+    "eyebrow": "Why Ionian Digital",
+    "title": "More Than a Website. A Partner in Your Growth.",
+    "description": "We combine modern web development with an understanding of Albania's business landscape to create websites that are beautiful, practical, and built around your goals.",
+    "cta": "Let's Work Together",
+    "localTitle": "Local Understanding",
+    "localDescription": "Based in Albania, we understand the needs of local businesses and the importance of connecting with international visitors.",
+    "languagesTitle": "Built for Multiple Languages",
+    "languagesDescription": "Reach Albanian and international customers with websites designed to work beautifully across multiple languages.",
+    "technologyTitle": "Modern Technology",
+    "technologyDescription": "We use modern development tools to create fast, responsive websites that are easy to navigate and built to last.",
+    "pricingTitle": "Transparent Pricing",
+    "pricingDescription": "Clear packages, straightforward proposals, and no surprises about what's included.",
+    "personalTitle": "Personalized Service",
+    "personalDescription": "Work directly with the developer building your website, from the first conversation through launch."
+  },
+  "OurProcess": {
+    "eyebrow": "How We Work",
+    "title": "From First Conversation to Final Launch.",
+    "description": "A straightforward, collaborative process designed to bring your vision to life without unnecessary complexity.",
+    "discoveryTitle": "Discovery",
+    "discoveryDescription": "We discuss your business, goals, audience, and the features your website needs.",
+    "designTitle": "Design",
+    "designDescription": "We create a visual direction that reflects your brand and gives customers a great first impression.",
+    "developmentTitle": "Development",
+    "developmentDescription": "We build your responsive, multilingual website and test it across devices.",
+    "launchTitle": "Launch",
+    "launchDescription": "After your approval, we publish your website and help you understand how to use it.",
+    "cta": "Start Your Project"
+  },
+  "CTA": {
+    "eyebrow": "Let's Build Something Extraordinary",
+    "title": "Ready to Bring Your Business to Life Online?",
+    "description": "Your business deserves a website that looks incredible, works beautifully, and helps you connect with more customers. Let's create something worth showing off.",
+    "primaryButton": "Start Your Project",
+    "secondaryButton": "Explore Pricing",
+    "trustOne": "Transparent Pricing",
+    "trustTwo": "Multilingual Websites",
+    "trustThree": "Personalized Service"
+  },
+  "ServicesPage": {
+    "heroEyebrow": "Our Expertise",
+    "heroTitle": "Digital Solutions Built Around Your Business.",
+    "heroDescription": "From modern websites to multilingual experiences, we create thoughtful digital solutions that help businesses connect with customers and grow online.",
+    "heroButton": "Start Your Project",
+    "servicesEyebrow": "What We Offer",
+    "servicesTitle": "Everything You Need to Stand Out Online.",
+    "servicesDescription": "Professional web design and development services tailored to your business, industry, and goals.",
+    "webDesignTitle": "Website Design & Development",
+    "webDesignDescription": "Beautiful, fast, responsive websites that represent your business and give customers a reason to choose you.",
+    "webDesignFeature1": "Custom visual design",
+    "webDesignFeature2": "Mobile-friendly layouts",
+    "webDesignFeature3": "Contact and inquiry features",
+    "multilingualTitle": "Multilingual Websites",
+    "multilingualDescription": "Connect with local and international customers through a website designed to work seamlessly across multiple languages.",
+    "multilingualFeature1": "Albanian, English, Italian & Greek options",
+    "multilingualFeature2": "Easy language switching",
+    "multilingualFeature3": "Localized navigation and content",
+    "restaurantTitle": "Restaurant & Hospitality Websites",
+    "restaurantDescription": "Showcase your restaurant, bar, or hospitality business with an attractive website designed to help customers discover what you offer.",
+    "restaurantFeature1": "Digital menus and photo galleries",
+    "restaurantFeature2": "Reservation inquiry options",
+    "restaurantFeature3": "Maps and contact integrations",
+    "tourismTitle": "Tourism & Accommodation Websites",
+    "tourismDescription": "Help travelers discover your tours, activities, accommodations, and experiences before they arrive.",
+    "tourismFeature1": "Tour and service showcases",
+    "tourismFeature2": "Booking inquiry options",
+    "tourismFeature3": "Multilingual visitor information",
+    "redesignTitle": "Website Redesigns",
+    "redesignDescription": "Give your existing website a fresh, modern look with improved navigation, responsive layouts, and a better visitor experience.",
+    "redesignFeature1": "Modern visual refresh",
+    "redesignFeature2": "Mobile usability improvements",
+    "redesignFeature3": "Improved content organization",
+    "maintenanceTitle": "Website Maintenance & Support",
+    "maintenanceDescription": "Keep your website up to date and functioning smoothly with optional ongoing support.",
+    "maintenanceFeature1": "Content and information updates",
+    "maintenanceFeature2": "Technical maintenance",
+    "maintenanceFeature3": "Ongoing assistance",
+    "menuDesign": {
+      "eyebrow": "Creative Design Services",
+      "title": "Professional Restaurant Menu Design",
+      "description": "Beautifully designed menus that reflect your brand and make a lasting impression. From restaurant menus to detailed wine catalogs, we create designs that look exceptional in print and online.",
+      "types": {
+        "food": {
+          "title": "Restaurant & Café Menus",
+          "description": "Custom food menus with thoughtful layouts, clear pricing, and a visual style that complements your restaurant's identity."
+        },
+        "drinks": {
+          "title": "Wine & Cocktail Menus",
+          "description": "Elegant wine lists, cocktail menus, and detailed beverage catalogs designed to showcase your offerings."
+        },
+        "multilingual": {
+          "title": "Multilingual Menu Design",
+          "description": "Professionally formatted menus in multiple languages, helping your business welcome customers from around the world."
+        }
+      },
+      "formatsLabel": "Print & Digital",
+      "formatsDescription": "Receive high-quality, print-ready PDF files and digital versions suitable for sharing online or through QR codes.",
+      "portfolioButton": "View Our Work",
+      "contactButton": "Request a Quote"
+    },
+    "industriesEyebrow": "Who We Work With",
+    "industriesTitle": "Designed for the Businesses That Make Albania Special.",
+    "industriesDescription": "From Sarandë's waterfront restaurants to boutique accommodations and local service providers, we understand the importance of helping customers find and trust your business online.",
+    "industriesButton": "Discuss Your Business",
+    "industry": {
+      "restaurants": "Restaurants & Bars",
+      "hospitality": "Hotels & Accommodation",
+      "tourism": "Tours & Activities",
+      "cafes": "Cafés & Bakeries",
+      "local": "Local Businesses"
+    },
+    "includedEyebrow": "The Essentials",
+    "includedTitle": "A Strong Foundation for Every Website.",
+    "includedDescription": "We focus on the details that make a website useful, accessible, and enjoyable for your customers.",
+    "included": {
+      "responsive": {
+        "title": "Responsive Design",
+        "description": "Layouts designed to work beautifully across phones, tablets, and computers."
+      },
+      "performance": {
+        "title": "Performance-Focused",
+        "description": "Modern development practices that prioritize speed and usability."
+      },
+      "seo": {
+        "title": "Search Engine Foundations",
+        "description": "Essential SEO setup to help search engines understand your website."
+      },
+      "multilingual": {
+        "title": "Multilingual Options",
+        "description": "Language options tailored to your package and your customers."
+      },
+      "reliable": {
+        "title": "Reliable Development",
+        "description": "Thoughtful development and testing before your website launches."
+      },
+      "support": {
+        "title": "Launch Guidance",
+        "description": "Clear communication and guidance when it's time to go live."
+      }
+    },
+    "includedNote": "Specific features, language counts, and ongoing services depend on your selected package and proposal.",
+    "ctaTitle": "Let's Build a Website Your Business Deserves.",
+    "ctaDescription": "Tell us about your business and what you have in mind. We'll help you choose the right approach.",
+    "ctaPrimary": "Start Your Project",
+    "ctaSecondary": "View Pricing"
+  },
+  "PricingPage": {
+    "heroEyebrow": "Simple, Transparent Pricing",
+    "heroTitle": "A Professional Website. An Investment in Your Business.",
+    "heroDescription": "Clear packages, thoughtful design, and no unnecessary complexity. Find the right starting point for your business.",
+    "comparisonEyebrow": "Compare Packages",
+    "comparisonTitle": "Find Your Perfect Fit.",
+    "comparisonDescription": "A closer look at the features and services available with each package.",
+    "comparisonFeature": "Features",
+    "comparisonNote": "Custom requests and additional functionality can be discussed during your consultation.",
+    "plans": {
+      "starter": "Starter",
+      "business": "Business",
+      "premium": "Premium"
+    },
+    "comparison": {
+      "pages": "Number of Pages",
+      "languages": "Included Languages",
+      "responsive": "Mobile Responsive",
+      "contactForm": "Contact Form",
+      "seo": "Essential SEO",
+      "maps": "Google Maps",
+      "animations": "Animations",
+      "integrations": "Custom Integrations",
+      "revisions": "Revision Rounds"
+    },
+    "values": {
+      "starterPages": "Up to 3",
+      "businessPages": "Up to 7",
+      "premiumPages": "Custom",
+      "starterLanguages": "2",
+      "businessLanguages": "3",
+      "premiumLanguages": "4",
+      "basic": "Basic",
+      "advanced": "Advanced",
+      "custom": "Custom",
+      "selected": "Selected",
+      "twoRounds": "2",
+      "threeRounds": "3"
+    },
+    "included": "Included",
+    "notIncluded": "—",
+    "detailsEyebrow": "Good to Know",
+    "detailsTitle": "More Than Just a Price Tag.",
+    "detailsDescription": "We believe building a website should feel straightforward from the first conversation.",
+    "details": {
+      "languages": {
+        "title": "Reach More Customers",
+        "description": "Multilingual websites help your business communicate with local customers and international visitors."
+      },
+      "transparent": {
+        "title": "Clear Project Proposals",
+        "description": "Before development begins, you'll receive a proposal outlining your project's scope, deliverables, and costs."
+      },
+      "support": {
+        "title": "A Collaborative Experience",
+        "description": "You'll have direct communication throughout the design and development process."
+      }
+    },
+    "faqEyebrow": "Frequently Asked Questions",
+    "faqTitle": "Questions? We've Got Answers.",
+    "faqDescription": "Everything you need to know before starting your website project.",
+    "faq": {
+      "payment": {
+        "question": "Do I have to pay everything upfront?",
+        "answer": "Payment terms are outlined in your project proposal. For most projects, we can arrange a deposit before work begins and the remaining balance before launch."
+      },
+      "timeline": {
+        "question": "How long does it take to build a website?",
+        "answer": "Timelines depend on the number of pages, languages, and features. We'll provide an estimated schedule after reviewing your requirements."
+      },
+      "domain": {
+        "question": "Are domain registration and hosting included?",
+        "answer": "Domain registration and hosting are quoted separately unless explicitly included in your proposal. We'll help you understand the available options."
+      },
+      "languages": {
+        "question": "Can my website have more languages?",
+        "answer": "Absolutely. Each package includes a set number of languages, and additional languages can be quoted based on the amount of content."
+      },
+      "updates": {
+        "question": "Can you update my website after launch?",
+        "answer": "Yes. Optional maintenance plans start at €29 per month. The exact services included will be defined in your maintenance agreement."
+      },
+      "changes": {
+        "question": "What if I need changes during development?",
+        "answer": "Each package includes revision rounds. Additional changes or requests outside the agreed scope can be quoted separately."
+      },
+      "ownership": {
+        "question": "Will I own my website?",
+        "answer": "Ownership and access arrangements will be clearly stated in your project agreement, including any third-party services or licenses."
+      },
+      "custom": {
+        "question": "What if my project doesn't fit a package?",
+        "answer": "No problem. Tell us what you need and we'll prepare a custom proposal based on your goals and requirements."
+      }
+    },
+    "ctaTitle": "Not Sure Which Package Is Right?",
+    "ctaDescription": "Tell us a little about your business and what you'd like to build. We'll help you find the right solution.",
+    "ctaButton": "Let's Talk About Your Project",
+    "menuPricing": {
+      "eyebrow": "Creative Design Pricing",
+      "title": "Menu Design That Makes an Impression.",
+      "description": "From a simple refresh to a complete multilingual menu, choose a design package that fits your business.",
+      "popular": "Most Popular",
+      "startingAt": "Starting at",
+      "customQuoteLabel": "Tailored to your project",
+      "customQuote": "Custom Quote",
+      "perProject": "/ project",
+      "includes": "What’s included",
+      "button": "Request a Quote",
+      "disclaimer": "Prices are starting rates. Final pricing depends on page count, content, languages, and design complexity. Printing and professional translation are quoted separately.",
+      "ctaTitle": "Need a Wine Catalog or Something Unique?",
+      "ctaDescription": "Tell us about your menu, drinks list, or catalog. We can create a custom quote for larger and more detailed projects.",
+      "ctaButton": "Discuss Your Project",
+      "packages": {
+        "refresh": {
+          "name": "Menu Refresh",
+          "description": "Give your existing menu a polished, updated look without starting from scratch.",
+          "features": [
+            "Refresh of an existing menu",
+            "Up to 2 pages",
+            "Clear typography and layout",
+            "Print-ready PDF"
+          ]
+        },
+        "custom": {
+          "name": "Custom Menu Design",
+          "description": "An original menu designed around your brand, atmosphere, and offerings.",
+          "features": [
+            "Original branded design",
+            "Up to 4 pages",
+            "Food or drink menu layout",
+            "Print-ready and digital PDFs"
+          ]
+        },
+        "multilingual": {
+          "name": "Multilingual Menu",
+          "description": "Welcome more guests with a professionally designed menu in two languages.",
+          "features": [
+            "Up to 4 pages",
+            "2 languages included",
+            "Consistent multilingual layout",
+            "Print-ready and digital PDFs"
+          ]
+        },
+        "catalog": {
+          "name": "Wine Catalogs & Large Menus",
+          "description": "A tailored solution for extensive wine lists, multi-page catalogs, and complex menus.",
+          "features": [
+            "Custom page count",
+            "Tailored catalog layout",
+            "Options for multiple languages",
+            "Custom quote based on scope"
+          ]
+        }
+      }
+    }
+  },
+  "AboutPage": {
+    "heroEyebrow": "About Ionian Digital",
+    "heroTitle": "Thoughtful Design. Modern Technology. A Personal Approach.",
+    "heroDescription": "Ionian Digital is an independent web development and creative design studio based in Sarandë, Albania. We combine modern technology with over a decade of hands-on hospitality experience to help local businesses make a lasting impression.",
+    "storyEyebrow": "Our Story",
+    "storyTitle": "Built with Purpose. Inspired by the Ionian Coast.",
+    "storyParagraph1": "Ionian Digital was founded with a simple idea: professional, modern websites should be accessible to businesses of all sizes.",
+    "storyParagraph2": "Based in Sarandë, Albania, we're inspired by the creativity, hospitality, and entrepreneurial spirit of the businesses around us.",
+    "storyParagraph3": "Our goal is to combine modern web development with personal service, helping local businesses present themselves professionally to both Albanian and international customers.",
+    "visualDescription": "Modern websites designed to help local businesses connect with the world.",
+    "visualMultilingual": "Multilingual Experiences",
+    "visualModern": "Modern Web Development",
+    "founderEyebrow": "Meet the Founder",
+    "founderTitle": "The Person Behind Ionian Digital.",
+    "founderRole": "Founder & Lead Developer",
+    "founderLocation": "Sarandë, Albania",
+    "founderHeading": "Hi, I'm Angelica.",
+    "founderParagraph1": "Hi, I'm Angelica. Before becoming a web developer, I spent over 10 years working in hospitality—from serving guests and training teams to managing restaurant operations. I've seen firsthand what it takes to keep a business running and make customers want to come back.",
+    "founderParagraph2": "That experience shapes everything I create. I know that a customer's first impression often happens before they ever walk through the door. A clear website, an inviting menu, and an easy way to get in touch can make all the difference.",
+    "founderParagraph3": "Today, I bring that practical understanding together with my skills in React, Next.js, TypeScript, and Tailwind CSS. Whether I'm building a website, designing a multilingual menu, or crafting a wine catalog, I focus on what works for both the business and its customers.",
+    "founderButton": "Let's Work Together",
+    "valuesEyebrow": "What We Believe",
+    "valuesTitle": "The Values Behind Our Work.",
+    "valuesDescription": "A few simple principles guide how we approach every project.",
+    "values": {
+      "personal": {
+        "title": "Personal Attention",
+        "description": "Every business is different. We take the time to understand your goals and create a website that reflects your needs."
+      },
+      "accessible": {
+        "title": "Accessible Design",
+        "description": "Professional websites should be easy to use, mobile-friendly, and accessible to customers across languages."
+      },
+      "thoughtful": {
+        "title": "Thoughtful Development",
+        "description": "We focus on clean design, practical functionality, and technology that serves your business."
+      },
+      "results": {
+        "title": "Business-Focused",
+        "description": "Our goal is to create websites that help customers understand your services and feel confident contacting you."
+      }
+    },
+    "missionEyebrow": "Our Mission",
+    "missionTitle": "Helping Local Businesses Make a Lasting Digital Impression.",
+    "missionDescription": "We believe every business deserves an online presence that reflects the quality of what it offers. Our mission is to make professional, multilingual web development approachable, practical, and accessible.",
+    "ctaTitle": "Let's Create Something Great Together.",
+    "ctaDescription": "Whether you're opening a new business or ready to improve your existing website, we'd love to hear what you have in mind.",
+    "ctaPrimary": "Start Your Project",
+    "ctaSecondary": "Explore Our Services",
+    "founderQuote": "I don't just want your business to look great. I want to help bring more customers through your door.",
+    "founderExperienceBadge": "10+ Years in Hospitality"
+  },
+  "ContactPage": {
+    "heroEyebrow": "Let's Work Together",
+    "heroTitle": "Have a Project in Mind? Let's Talk.",
+    "heroDescription": "Tell us about your website, restaurant menu, or catalog project. We would love to bring your ideas to life.",
+    "formTitle": "Tell Us About Your Project",
+    "formDescription": "Fill out the form below and we'll review your inquiry.",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "Your full name",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "you@example.com",
+    "businessLabel": "Business Name",
+    "businessPlaceholder": "Your business or organization",
+    "packageLabel": "Interested Package",
+    "messageLabel": "Project Details",
+    "messagePlaceholder": "Tell us about your business, your website or menu design needs, and any details you have in mind...",
+    "packages": {
+      "starter": "Starter — from €200",
+      "business": "Business — from €450",
+      "premium": "Premium — from €900",
+      "custom": "Custom Project / Not Sure Yet",
+      "menuRefresh": "Menu Refresh — €50",
+      "menuCustom": "Custom Menu — €100",
+      "menuMultilingual": "Multilingual Menu — €150",
+      "menuQuote": "Large Catalog / Custom Quote"
+    },
+    "submitButton": "Send Your Inquiry",
+    "sending": "Sending...",
+    "successMessage": "Your message has been sent successfully! Thank you for contacting Ionian Digital.",
+    "errorMessage": "Something went wrong while sending your message. Please try again or email us directly.",
+    "privacyNote": "Your information will only be used to respond to your inquiry.",
+    "emailCardTitle": "Email Us Directly",
+    "emailCardDescription": "Prefer email? You can contact us directly at:",
+    "locationCardTitle": "Based in Albania",
+    "location": "Sarandë, Albania",
+    "locationDescription": "Working with businesses throughout Albania and beyond.",
+    "languageCardTitle": "Multilingual Design",
+    "languageCardDescription": "We create websites and menu designs for Albanian, English-speaking, Italian, and Greek audiences.",
+    "noteTitle": "Not Sure Where to Start?",
+    "noteDescription": "You don't need to have everything figured out. Tell us a little about your business and we'll help you explore your options.",
+    "whatsappCardTitle": "Chat With Us on WhatsApp",
+    "whatsappCardDescription": "Have a quick question about a website or menu design? Message us directly on WhatsApp.",
+    "whatsappButton": "Start a Conversation",
+    "whatsappMessage": "Hello! I'm interested in your website or menu design services and would love to learn more about Ionian Digital.",
+    "eyebrow": "Let's Work Together",
+    "title": "Have a Project in Mind? Let's Talk.",
+    "description": "Tell us about your business and what you're looking to create. We'd love to help bring your ideas to life.",
+    "packageStarter": "Starter — from €200",
+    "packageBusiness": "Business — from €450",
+    "packagePremium": "Premium — from €900",
+    "packageCustom": "Custom Project / Not Sure Yet",
+    "formNote": "Your information will only be used to respond to your inquiry.",
+    "locationCardDescription": "Working with businesses throughout Albania and beyond.",
+    "locationValue": "Sarandë, Albania",
+    "sidebarCtaTitle": "Not Sure Where to Start?",
+    "sidebarCtaDescription": "You don't need to have everything figured out. Tell us a little about your business and we'll help you explore your options.",
+    "serviceLabel": "What can we help you with?",
+    "services": {
+      "website": "Website Development",
+      "menu": "Menu & Catalog Design"
+    },
+    "menuDetailsTitle": "Tell us about your menu",
+    "menuDetailsDescription": "These details are optional and help us prepare an accurate quote.",
+    "menuKindLabel": "Type of menu",
+    "menuKinds": {
+      "food": "Food menu",
+      "cocktails": "Cocktails & drinks",
+      "wine": "Wine catalog",
+      "other": "Other"
+    },
+    "menuPagesLabel": "Approximate number of pages",
+    "existingMenuLabel": "Are we creating or redesigning?",
+    "existingMenu": {
+      "new": "Create a new menu",
+      "redesign": "Redesign an existing menu"
+    },
+    "menuFormatLabel": "Preferred format",
+    "menuFormats": {
+      "print": "Print-ready",
+      "digital": "Digital PDF",
+      "both": "Print & digital"
+    },
+    "menuLanguagesLabel": "Languages needed",
+    "menuLanguagesPlaceholder": "e.g. Albanian, English, Italian"
+  },
+  "PortfolioPage": {
+    "heroEyebrow": "Our Creative Work",
+    "heroTitle": "Projects That Speak for Themselves.",
+    "heroDescription": "Explore our collection of modern websites, professional restaurant menus, and beautifully crafted catalogs. Every project is designed to help businesses stand out.",
+    "previewLabel": "Project Preview",
+    "viewWebsite": "Visit Website",
+    "filters": {
+      "all": "All Projects",
+      "websites": "Websites",
+      "menus": "Menu & Catalog Design"
+    },
+    "sections": {
+      "websitesEyebrow": "Digital Experiences",
+      "websitesTitle": "Websites We've Built",
+      "websitesDescription": "Modern, responsive websites designed to help businesses establish a stronger online presence.",
+      "menusEyebrow": "Creative Design",
+      "menusTitle": "Menus & Catalogs We've Designed",
+      "menusDescription": "Thoughtfully designed restaurant menus, cocktail lists, and wine catalogs that bring brands to life."
+    },
+    "projects": {
+      "vela": {
+        "title": "Vela Marine",
+        "industry": "Restaurant & Hospitality",
+        "description": "A modern, responsive restaurant website designed to showcase Vela Marine's Mediterranean atmosphere, dining experience, and offerings.",
+        "imageAlt": "Screenshot of the Vela Marine restaurant website"
+      },
+      "bistrica": {
+        "title": "Bistrica Paddleboard",
+        "industry": "Tourism & Outdoor Activities",
+        "description": "A vibrant website for a paddleboarding business, featuring engaging visuals, clear service information, and a mobile-friendly experience.",
+        "imageAlt": "Screenshot of the Bistrica Paddleboard website"
+      },
+      "haxhi": {
+        "title": "Haxhi Restaurant",
+        "industry": "Restaurant & Hospitality",
+        "description": "A stylish restaurant website featuring modern layouts, elegant typography, and a seamless experience across devices.",
+        "imageAlt": "Screenshot of the Haxhi restaurant website"
+      },
+      "crave": {
+        "title": "Crave Café",
+        "industry": "Café & Food Service",
+        "description": "A visually engaging café website designed to highlight menu offerings, promotions, and the brand's personality.",
+        "imageAlt": "Screenshot of the Crave Café website"
+      }
+    },
+    "featuredProject": "Featured Project",
+    "pageCount": "{count} pages",
+    "exploreMenu": "View Menu",
+    "menuProjects": {
+      "veraria": {
+        "title": "Veraria Musej Wine Catalog",
+        "category": "Wine Catalog Design",
+        "description": "An elegant 34-page wine catalog featuring vineyard photography, refined typography, and thoughtful presentation.",
+        "imageAlt": "Veraria Musej wine catalog"
+      },
+      "food": {
+        "title": "Centrali Restaurant Menu",
+        "category": "Restaurant Menu Design",
+        "description": "An eight-page Mediterranean-inspired restaurant menu featuring coordinated branding and bilingual descriptions.",
+        "imageAlt": "Centrali restaurant food menu"
+      },
+      "cocktails": {
+        "title": "Centrali Cocktail Menu",
+        "category": "Cocktail Menu Design",
+        "description": "An illustrated eight-page cocktail menu with an elegant navy color palette and cohesive visual styling.",
+        "imageAlt": "Centrali cocktail menu"
+      },
+      "main": {
+        "title": "Centrali Bilingual Menu",
+        "category": "Multilingual Menu Design",
+        "description": "A comprehensive 12-page Albanian–English menu with decorative details and clearly organized categories.",
+        "imageAlt": "Centrali bilingual restaurant menu"
+      }
+    },
+    "gallery": {
+      "close": "Close Viewer",
+      "previous": "Previous Page",
+      "next": "Next Page",
+      "page": "Page",
+      "openPdf": "Open PDF",
+      "downloadPdf": "Download PDF"
+    },
+    "ctaTitle": "Have a Project in Mind?",
+    "ctaDescription": "Whether you need a professional website, a beautifully designed menu, or a complete digital presence, we'd love to bring your vision to life.",
+    "ctaButton": "Let's Work Together"
+  }
+}
