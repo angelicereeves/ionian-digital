@@ -622,5 +622,12 @@
     "ctaTitle": "Keni një Projekt në Mendje?",
     "ctaDescription": "Nëse ju nevojitet një faqe webi profesionale, një meny e dizajnuar bukur ose një prani e plotë dixhitale, do të donim ta kthenim idenë tuaj në realitet.",
     "ctaButton": "Le të Punojmë së Bashku"
-  }
+  },
+  "TourismBanner": {
+  "eyebrow": "Bëhuni të dukshëm",
+  "headline1": "TURISTËT PO KËRKOJNË.",
+  "headline2": "SIGUROHUNI QË T'JU GJEJNË.",
+  "description": "Çdo ditë, udhëtarët kërkojnë në internet restorante, hotele, ture dhe përvoja lokale. Një faqe interneti profesionale dhe shumëgjuhëshe e ndihmon biznesin tuaj të bëhet më i dukshëm, të fitojë besimin e klientëve dhe ta kthejë interesin në klientë të rinj.",
+  "button": "Le të krijojmë faqen tuaj"
+}
 }

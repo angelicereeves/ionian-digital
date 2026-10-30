@@ -1,9 +1,11 @@
 import type {Metadata} from "next";
+
 import {setRequestLocale} from "next-intl/server";
 
 import {getPageSEO} from "@/lib/seo";
 
 import Hero from "@/components/home/Hero";
+import TourismBanner from "@/components/home/TourismBanner";
 import ServicesPreview from "@/components/home/ServicesPreview";
 import WhyChooseUs from "@/components/home/WhyChooseUs";
 import OurProcess from "@/components/home/OurProcess";
@@ -11,6 +13,7 @@ import PricingPreview from "@/components/home/PricingPreview";
 import CTA from "@/components/home/CTA";
 
 // SEO titles and descriptions for each language
+
 const homepageSEO = {
   sq: {
     title: "Krijim Faqesh Interneti në Sarandë",
@@ -40,6 +43,7 @@ const homepageSEO = {
 type Locale = keyof typeof homepageSEO;
 
 // Generate language-specific SEO metadata
+
 export async function generateMetadata({
   params,
 }: {
@@ -62,6 +66,7 @@ export async function generateMetadata({
 }
 
 // Homepage
+
 export default async function HomePage({
   params,
 }: {
@@ -74,6 +79,7 @@ export default async function HomePage({
   return (
     <main>
       <Hero />
+      <TourismBanner />
       <ServicesPreview />
       <WhyChooseUs />
       <OurProcess />

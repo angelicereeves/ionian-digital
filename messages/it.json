@@ -622,5 +622,12 @@
     "ctaTitle": "Hai un Progetto in Mente?",
     "ctaDescription": "Che tu abbia bisogno di un sito web professionale, di un menù dal design elegante o di una presenza digitale completa, saremo felici di dare vita alla tua visione.",
     "ctaButton": "Lavoriamo Insieme"
-  }
+  },
+  "TourismBanner": {
+  "eyebrow": "Fatti trovare",
+  "headline1": "I TURISTI STANNO CERCANDO.",
+  "headline2": "FAI IN MODO CHE TI TROVINO.",
+  "description": "Ogni giorno, i viaggiatori cercano online ristoranti, hotel, tour ed esperienze locali. Un sito web professionale e multilingue aiuta la tua attività a farsi trovare, conquistare la fiducia dei clienti e trasformare l'interesse in nuovi clienti.",
+  "button": "Creiamo il tuo sito web"
+}
 }

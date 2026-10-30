@@ -622,5 +622,12 @@
     "ctaTitle": "Have a Project in Mind?",
     "ctaDescription": "Whether you need a professional website, a beautifully designed menu, or a complete digital presence, we'd love to bring your vision to life.",
     "ctaButton": "Let's Work Together"
-  }
+  },
+  "TourismBanner": {
+  "eyebrow": "Get Discovered",
+  "headline1": "TOURISTS ARE SEARCHING.",
+  "headline2": "MAKE SURE THEY FIND YOU.",
+  "description": "Every day, travelers search online for restaurants, hotels, tours, and local experiences. A professional, multilingual website helps your business get discovered, build trust, and turn interest into customers.",
+  "button": "Let's Build Your Website"
+}
 }
