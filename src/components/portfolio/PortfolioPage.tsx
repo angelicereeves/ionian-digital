@@ -38,6 +38,13 @@ const websiteProjects = [
     accent: "cyan",
   },
   {
+  id: "hotelmire",
+  image: "/portfolio/hotelmire.png",
+  url: "https://hotel-mire.vercel.app/",
+  number: "05",
+  accent: "cyan",
+},
+  {
     id: "bistrica",
     image: "/portfolio/bistricapaddle.png",
     url: "https://bistricapaddleboard.com/",

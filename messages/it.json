@@ -563,6 +563,12 @@
         "description": "Un sito web moderno e responsive progettato per valorizzare l'atmosfera mediterranea, l'esperienza gastronomica e le proposte di Vela Marine.",
         "imageAlt": "Schermata del sito web del ristorante Vela Marine"
       },
+      "hotelmire": {
+  "title": "Hotel Mirë",
+  "industry": "Ospitalità · Sito web dimostrativo",
+  "description": "Un sito web per un boutique hotel ispirato alla Riviera Albanese. Calde immagini mediterranee, un’elegante presentazione delle camere e un modulo di anteprima della richiesta di prenotazione creano un’esperienza accogliente, con supporto completo in inglese e albanese su ogni schermata.",
+  "imageAlt": "Il sito web di Hotel Mirë con una terrazza mediterranea affacciata sul Mar Ionio"
+},
       "bistrica": {
         "title": "Bistrica Paddleboard",
         "industry": "Turismo e Attività all'Aperto",

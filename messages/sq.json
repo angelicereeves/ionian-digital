@@ -563,6 +563,12 @@
         "description": "Një faqe webi moderne dhe e përshtatshme për çdo pajisje, e krijuar për të prezantuar atmosferën mesdhetare, përvojën gastronomike dhe ofertat e Vela Marine.",
         "imageAlt": "Pamje e faqes së webit të restorantit Vela Marine"
       },
+      "hotelmire": {
+  "title": "Hotel Mirë",
+  "industry": "Hoteleri · Koncept faqeje interneti",
+  "description": "Një faqe interneti për një hotel boutique, e frymëzuar nga Riviera Shqiptare. Pamjet e ngrohta mesdhetare, prezantimi elegant i dhomave dhe formulari demonstrues i kërkesës për rezervim krijojnë një përvojë mikpritëse, plotësisht në shqip dhe anglisht.",
+  "imageAlt": "Faqja e Hotel Mirë me një tarracë mesdhetare dhe pamje nga deti Jon"
+},
       "bistrica": {
         "title": "Bistrica Paddleboard",
         "industry": "Turizëm dhe Aktivitete në Natyrë",
