@@ -42,7 +42,7 @@ type ContactForm = {
   website: string;
 };
 
-const WHATSAPP_NUMBER = "355696041548";
+const WHATSAPP_NUMBER = "355696041547";
 const CONTACT_EMAIL = "ioniandigital@gmail.com";
 
 const validPackages: PackageType[] = [
@@ -677,7 +677,7 @@ export default function ContactPage() {
                 </a>
 
                 <p className="mt-4 text-center text-sm text-slate-500">
-                  +355 69 604 1548
+                  +355 69 604 1547
                 </p>
               </div>
             </div>
