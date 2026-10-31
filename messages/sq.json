@@ -569,6 +569,12 @@
   "description": "Një faqe interneti për një hotel boutique, e frymëzuar nga Riviera Shqiptare. Pamjet e ngrohta mesdhetare, prezantimi elegant i dhomave dhe formulari demonstrues i kërkesës për rezervim krijojnë një përvojë mikpritëse, plotësisht në shqip dhe anglisht.",
   "imageAlt": "Faqja e Hotel Mirë me një tarracë mesdhetare dhe pamje nga deti Jon"
 },
+"miraSalon": {
+  "industry": "Bukuri & Mirëqenie · Projekt Konceptual",
+  "title": "Mira Salon — Studio Bukurie dhe Flokësh",
+  "description": "Një koncept elegant dhe shumëgjuhësh për faqen e internetit të një salloni modern bukurie në Shqipëri, me dizajn të sofistikuar, prezantim të detajuar të shërbimeve, çmime transparente dhe një përvojë të thjeshtë për rezervimin e takimeve.",
+  "imageAlt": "Koncepti i faqes së internetit të Mira Salon që prezanton një studio elegante bukurie dhe flokësh"
+},
       "bistrica": {
         "title": "Bistrica Paddleboard",
         "industry": "Turizëm dhe Aktivitete në Natyrë",

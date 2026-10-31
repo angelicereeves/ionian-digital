@@ -58,6 +58,14 @@ const websiteProjects = [
     number: "04",
     accent: "amber",
   },
+  {
+  id: "miraSalon",
+  image: "/portfolio/mira-salon.png",
+  url: "https://mira-salon-psi.vercel.app/",
+  number: "05",
+  accent: "rose",
+},
+  
 ] as const;
 
 const accentStyles = {
@@ -85,7 +93,14 @@ const accentStyles = {
     text: "text-amber-300",
     badge: "border-amber-400/20 bg-amber-400/10 text-amber-300",
   },
+  rose: {
+    glow: "bg-rose-400/15",
+    border: "hover:border-rose-400/30",
+    text: "text-rose-300",
+    badge: "border-rose-400/20 bg-rose-400/10 text-rose-300",
+  },
 };
+
 
 /* =========================================
    MENU PROJECTS
