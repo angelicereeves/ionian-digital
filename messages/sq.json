@@ -557,12 +557,12 @@
       "menusDescription": "Meny restorantesh, lista koktejesh dhe katalogë verërash të dizajnuar me kujdes për të nxjerrë në pah identitetin e biznesit."
     },
     "projects": {
-      "vela": {
-        "title": "Vela Marine",
-        "industry": "Restorante dhe Mikpritje",
-        "description": "Një faqe webi moderne dhe e përshtatshme për çdo pajisje, e krijuar për të prezantuar atmosferën mesdhetare, përvojën gastronomike dhe ofertat e Vela Marine.",
-        "imageAlt": "Pamje e faqes së webit të restorantit Vela Marine"
-      },
+      "vatra": {
+  "industry": "Restorant · Projekt Konceptual",
+  "title": "Vatra — Kuzhinë Tradicionale Shqiptare",
+  "description": "Një koncept faqeje interneti në dy gjuhë për një restorant imagjinar shqiptar, me pamje të ngrohta, menu të plotë, galeri fotografish, hartë të integruar të Google Maps dhe një demonstrim rezervimi me mundësi përmes WhatsApp-it dhe emailit.",
+  "imageAlt": "Koncepti i faqes së restorantit Vatra, që prezanton kuzhinën tradicionale shqiptare"
+},
       "hotelmire": {
   "title": "Hotel Mirë",
   "industry": "Hoteleri · Koncept faqeje interneti",
@@ -575,12 +575,7 @@
         "description": "Një faqe webi dinamike për një biznes paddleboarding, me pamje tërheqëse, informacion të qartë mbi shërbimet dhe përdorim të lehtë në pajisje celulare.",
         "imageAlt": "Pamje e faqes së webit Bistrica Paddleboard"
       },
-      "haxhi": {
-        "title": "Restorant Haxhi",
-        "industry": "Restorante dhe Mikpritje",
-        "description": "Një faqe elegante restoranti me strukturë moderne, tipografi të rafinuar dhe përvojë të njëtrajtshme në çdo pajisje.",
-        "imageAlt": "Pamje e faqes së webit të restorantit Haxhi"
-      },
+    
       "crave": {
         "title": "Crave Café",
         "industry": "Kafene dhe Gastronomi",

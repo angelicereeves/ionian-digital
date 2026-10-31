@@ -557,17 +557,18 @@
       "menusDescription": "Thoughtfully designed restaurant menus, cocktail lists, and wine catalogs that bring brands to life."
     },
     "projects": {
-      "vela": {
-        "title": "Vela Marine",
-        "industry": "Restaurant & Hospitality",
-        "description": "A modern, responsive restaurant website designed to showcase Vela Marine's Mediterranean atmosphere, dining experience, and offerings.",
-        "imageAlt": "Screenshot of the Vela Marine restaurant website"
-      },
+      
       "hotelmire": {
   "title": "Hotel Mirë",
   "industry": "Hospitality · Concept Website",
   "description": "A boutique hotel website inspired by the Albanian Riviera. Warm Mediterranean imagery, elegant room showcases, and a booking inquiry preview create an inviting guest experience, with full English and Albanian support across every screen.",
   "imageAlt": "Hotel Mirë website featuring a Mediterranean terrace overlooking the Ionian Sea"
+},
+"vatra": {
+  "industry": "Restaurant · Concept Project",
+  "title": "Vatra — Traditional Albanian Kitchen",
+  "description": "A bilingual website concept for a fictional Albanian restaurant, featuring warm visuals, a full menu, a photo gallery, an embedded Google Map, and a demo reservation experience with WhatsApp and email options.",
+  "imageAlt": "Vatra restaurant website concept showcasing traditional Albanian cuisine"
 },
       "bistrica": {
         "title": "Bistrica Paddleboard",
@@ -575,12 +576,7 @@
         "description": "A vibrant website for a paddleboarding business, featuring engaging visuals, clear service information, and a mobile-friendly experience.",
         "imageAlt": "Screenshot of the Bistrica Paddleboard website"
       },
-      "haxhi": {
-        "title": "Haxhi Restaurant",
-        "industry": "Restaurant & Hospitality",
-        "description": "A stylish restaurant website featuring modern layouts, elegant typography, and a seamless experience across devices.",
-        "imageAlt": "Screenshot of the Haxhi restaurant website"
-      },
+      
       "crave": {
         "title": "Crave Café",
         "industry": "Café & Food Service",

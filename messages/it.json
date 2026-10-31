@@ -557,12 +557,12 @@
       "menusDescription": "Menù per ristoranti, carte dei cocktail e cataloghi dei vini progettati con cura per valorizzare ogni brand."
     },
     "projects": {
-      "vela": {
-        "title": "Vela Marine",
-        "industry": "Ristorazione e Ospitalità",
-        "description": "Un sito web moderno e responsive progettato per valorizzare l'atmosfera mediterranea, l'esperienza gastronomica e le proposte di Vela Marine.",
-        "imageAlt": "Schermata del sito web del ristorante Vela Marine"
-      },
+      "vatra": {
+  "industry": "Ristorazione · Progetto Dimostrativo",
+  "title": "Vatra — Cucina Tradizionale Albanese",
+  "description": "Un sito dimostrativo bilingue per un ristorante albanese immaginario, con un’atmosfera accogliente, un menu completo, una galleria fotografica, una mappa Google Maps incorporata e una dimostrazione della richiesta di prenotazione con opzioni WhatsApp ed email.",
+  "imageAlt": "Sito dimostrativo del ristorante Vatra dedicato alla cucina tradizionale albanese"
+},
       "hotelmire": {
   "title": "Hotel Mirë",
   "industry": "Ospitalità · Sito web dimostrativo",
@@ -575,12 +575,7 @@
         "description": "Un sito web dinamico per un'attività di paddleboarding, con immagini coinvolgenti, informazioni chiare sui servizi e un'esperienza ottimizzata per dispositivi mobili.",
         "imageAlt": "Schermata del sito web Bistrica Paddleboard"
       },
-      "haxhi": {
-        "title": "Ristorante Haxhi",
-        "industry": "Ristorazione e Ospitalità",
-        "description": "Un elegante sito web per ristorante con layout moderni, tipografia raffinata e un'esperienza fluida su ogni dispositivo.",
-        "imageAlt": "Schermata del sito web del ristorante Haxhi"
-      },
+    
       "crave": {
         "title": "Crave Café",
         "industry": "Caffetteria e Ristorazione",

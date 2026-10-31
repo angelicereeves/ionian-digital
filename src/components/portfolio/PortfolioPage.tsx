@@ -31,32 +31,25 @@ import MenuGallery from "./MenuGallery";
 
 const websiteProjects = [
   {
-    id: "vela",
-    image: "/portfolio/velamarine.png",
-    url: "https://velamarine.vercel.app/",
+    id: "vatra",
+    image: "/portfolio/vatra.png",
+    url: "https://vatra-restaurant-five.vercel.app/",
     number: "01",
-    accent: "cyan",
+    accent: "amber",
   },
   {
-  id: "hotelmire",
-  image: "/portfolio/hotelmire.png",
-  url: "https://hotel-mire.vercel.app/",
-  number: "05",
-  accent: "cyan",
-},
+    id: "hotelmire",
+    image: "/portfolio/hotelmire.png",
+    url: "https://hotel-mire.vercel.app/",
+    number: "02",
+    accent: "cyan",
+  },
   {
     id: "bistrica",
     image: "/portfolio/bistricapaddle.png",
     url: "https://bistricapaddleboard.com/",
-    number: "02",
-    accent: "blue",
-  },
-  {
-    id: "haxhi",
-    image: "/portfolio/haxhi.png",
-    url: "https://haxhi.vercel.app/",
     number: "03",
-    accent: "violet",
+    accent: "blue",
   },
   {
     id: "crave",
